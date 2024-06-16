@@ -1,4 +1,4 @@
-#### Bachelors of Computer Science & Engineering 
+##### Bachelors of Computer Science & Engineering 
 * CSE1006 (Foundations for Data Analytics) 
 * CSE1004 (Problem Solving using Java)
 * CSE1005 (Software Engineering)
@@ -58,3 +58,25 @@
 * ECS1001 (Engineering Clinics I)
 * ECS1002 (Engineering Clinics II)
 * CAP4001 (Capstone Project)
+* BIC4002 (Senior Design Project)
+
+##### Skills 
+* C Programming
+* R Programming
+* Java Programming
+* Android App Development
+* Desktop App Development
+* C++ Programming
+* MATLAB
+* Verilog HDL
+* Robotic Design
+* Arduino Programming
+* Python Programming
+* Assembly Language
+* XML
+* Object Oriented Programming
+* Hardware & Software Architecture
+* JavaFX & Java Swing
+* C# Programming
+* SQL
+* Football⚽
