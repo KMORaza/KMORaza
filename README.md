@@ -73,10 +73,34 @@
 * Arduino Programming
 * Python Programming
 * Assembly Language
-* XML
+* XML 
 * Object Oriented Programming
 * Hardware & Software Architecture
 * JavaFX & Java Swing
-* C# Programming
 * SQL
+* NI Multisim
+* NI LabVIEW
 * Football⚽
+
+##### Projects
+* Android QR Code Generator
+* Android To-Do App
+* Desktop PDF Modification Tool
+* IoT-based Mini Weather Station (Project for the course Internet of Things (CSE4011))
+* Desktop Code Parser & UML Maker for Java Codes
+* Desktop To-Do App
+* Desktop Image Cropping Software
+* Desktop PDF Merger Tool
+* 3D Graphing Software
+* Desktop Spreadsheet Software
+* Integral Visualization Software
+* Command Prompt Emulator
+* Desktop Graphing Tool
+* Polynomial Evaluation Software
+* Liquid Level Monitoring System (NI LabVIEW)
+* Text to Speech Converter (LabVIEW)
+* CPU Scheduler for Desktop
+* Data Structures Visualization App
+* Desktop Paint App
+* Barcode and QR Code Reader Android App
+* [Simulation of Antikythera Mechanism](https://github.com/KMORaza/Antikythera_Mechanism_Simulation) 
