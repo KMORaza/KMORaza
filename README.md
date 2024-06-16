@@ -114,7 +114,9 @@
 | MAT2005     | Linear Algebra |
 | MAT1003     | Discrete Mathematical Structures |
 | MAT2003     | Optimization Techniques |
-| Value Added Courses | Advanced Data Analytics Tools, Data Science & Advanced Analytics, Environmental Chemistry & Pollution Control |
+| Value Added Courses | Advanced Data Analytics Tools|
+| Value Added Courses | Data Science & Advanced Analytics| 
+| Value Added Courses | Environmental Chemistry & Pollution Control|
 | ECS1001     | Engineering Clinics I |
 | ECS1002     | Engineering Clinics II |
 | CAP4001     | Capstone Project |
