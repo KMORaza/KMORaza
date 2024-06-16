@@ -106,5 +106,5 @@
 * [Simulation of Antikythera Mechanism](https://github.com/KMORaza/Antikythera_Mechanism_Simulation)
 * [Analysis of Modern Periodic Table using Machine Learning](https://github.com/KMORaza/Periodic_Table_Analysis)
 * Engineering Clinics I: Arduino based Smart Lock System
-* Project for Engineering Clinics II: Smart Irrigation System using NodeMCU, IoT and Android
+* Engineering Clinics II: Smart Irrigation System using NodeMCU, IoT and Android
 * Senior Design Project: Surface Damage Detection and Analysis using Machine Learning
