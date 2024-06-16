@@ -1,4 +1,4 @@
-##### Bachelors of Computer Science & Engineering 
+### Bachelors of Computer Science & Engineering 
 * CSE1006 (Foundations for Data Analytics) 
 * CSE1004 (Problem Solving using Java)
 * CSE1005 (Software Engineering)
@@ -60,7 +60,7 @@
 * CAP4001 (Capstone Project)
 * BIC4002 (Senior Design Project)
 
-##### Skills 
+### Skills 
 * C Programming
 * R Programming
 * Java Programming
@@ -82,7 +82,7 @@
 * NI LabVIEW
 * Football⚽
 
-##### Projects
+### Projects
 * Android QR Code Generator
 * Android To-Do App
 * Desktop PDF Modification Tool
