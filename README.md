@@ -80,7 +80,7 @@
 * SQL
 * NI Multisim
 * NI LabVIEW
-* Football⚽
+* Football⚽ 
 
 ### Projects
 * Android QR Code Generator
@@ -91,6 +91,11 @@
 * Desktop To-Do App
 * Desktop Image Cropping Software
 * Desktop PDF Merger Tool
+* Desktop Python Code Editor
+* Hospital Management Software (Project for the course Software Engineering (CSE1005))
+* Fourier Transform Visualizer
+* Contour Plotter Application
+* Smart Door System Design using Piezoelectric Transducer
 * 3D Graphing Software
 * Desktop Spreadsheet Software
 * Integral Visualization Software
