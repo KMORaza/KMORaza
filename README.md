@@ -1,4 +1,4 @@
-### Bachelor's of Computer Science & Engineering 
+### Bachelor of Computer Science & Engineering
 * CSE1006 (Foundations for Data Analytics) 
 * CSE1004 (Problem Solving using Java)
 * CSE1005 (Software Engineering)
