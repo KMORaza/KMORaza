@@ -148,7 +148,7 @@
 
 ### Projects
 * Android QR Code Generator
-* Android QR Code and Barcode Reader
+* Android QR Code and Barcode Reader App
 * Android To-Do App
 * Desktop PDF Modification Tool
 * IoT-based Mini Weather Station (Project for the course Internet of Things (CSE4011))
@@ -171,7 +171,6 @@
 * CPU Scheduler for Desktop
 * Data Structures Visualization App
 * Desktop Paint App
-* Barcode and QR Code Reader Android App
 * [Simulation of Antikythera Mechanism](https://github.com/KMORaza/Antikythera_Mechanism_Simulation)
 * [Analysis of Modern Periodic Table using Machine Learning](https://github.com/KMORaza/Periodic_Table_Analysis)
 * Engineering Clinics I: Arduino based Smart Lock System
