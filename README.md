@@ -145,8 +145,6 @@
 * NI LabVIEW
 * Football⚽
 
-![image](https://github.com/KMORaza/KMORaza/assets/141234596/b1273f56-176a-4d9f-a2b1-82ad84567193)
-
 
 ### Projects
 * Android QR Code Generator
