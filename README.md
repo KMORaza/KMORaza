@@ -125,8 +125,6 @@
 
 ### Skills 
 * C Programming
-  ![image](https://github.com/KMORaza/KMORaza/assets/141234596/2f031750-86d9-437f-b4fe-5a2161c03c8f)
-
 * R Programming
 * Java Programming
 * Android App Development
@@ -145,7 +143,10 @@
 * SQL
 * NI Multisim
 * NI LabVIEW
-* Football⚽ 
+* Football⚽
+
+![image](https://github.com/KMORaza/KMORaza/assets/141234596/b1273f56-176a-4d9f-a2b1-82ad84567193)
+
 
 ### Projects
 * Android QR Code Generator
