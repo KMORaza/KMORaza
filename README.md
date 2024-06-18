@@ -76,6 +76,7 @@
 | CSE3006     | Data Visualization |
 | CSE3003     | Computer Networks |
 | CSE3002     | Artificial Intelligence |
+|             |                   |
 | ENG1001     | English for Essential Communication |
 | ENG1002     | English for Effective Communication |
 | ONL1001     | C Programming |
@@ -147,8 +148,6 @@
 
 ### Projects
 * Android QR Code Generator
-  * Android app that creates QR codes based on the text written by user.
-  * This app uses ZXing library
 * Android QR Code and Barcode Reader
 * Android To-Do App
 * Desktop PDF Modification Tool
