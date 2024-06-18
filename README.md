@@ -167,8 +167,8 @@
 * Command Prompt Emulator
 * Desktop Graphing Tool
 * Polynomial Evaluation Software
-* Liquid Level Monitoring System (NI LabVIEW)
-* Text to Speech Converter (LabVIEW)
+* Liquid Level Monitoring System using NI LabVIEW
+* Text to Speech Converter using NI LabVIEW
 * CPU Scheduler for Desktop
 * Data Structures Visualization App
 * Desktop Paint App
