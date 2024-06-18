@@ -77,9 +77,14 @@
 | CSE3003     | Computer Networks |
 | CSE3002     | Artificial Intelligence |
 |             |                   |
+|             |                   |
 | ENG1001     | English for Essential Communication |
 | ENG1002     | English for Effective Communication |
+|             |                   |
+|             |                   |
 | ONL1001     | C Programming |
+|             |                   |
+|             |                   |
 | ECE1002     | Fundamentals of Electrical & Electronics Engineering |
 | ECE1003     | Digital Logic Design |
 | ECE1008     | Sensors & Control Systems |
