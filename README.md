@@ -147,6 +147,9 @@
 
 ### Projects
 * Android QR Code Generator
+  * Android app that creates QR codes based on the text written by user.
+  * This app uses ZXing library
+* Android QR Code and Barcode Reader
 * Android To-Do App
 * Desktop PDF Modification Tool
 * IoT-based Mini Weather Station (Project for the course Internet of Things (CSE4011))
