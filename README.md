@@ -76,59 +76,47 @@
 | CSE3006     | Data Visualization |
 | CSE3003     | Computer Networks |
 | CSE3002     | Artificial Intelligence |
-|             |                   |
 | ENG1001     | English for Essential Communication |
 | ENG1002     | English for Effective Communication |
-|             |                   |
 | ONL1001     | C Programming |
-|             |                   |
 | ECE1002     | Fundamentals of Electrical & Electronics Engineering |
 | ECE1003     | Digital Logic Design |
 | ECE1008     | Sensors & Control Systems |
 | ECE2002     | Computer Organization & Architecture |
 | ECE2004     | Microcontrollers & Interfacing |
 | ECE4004     | Automotive Electronics |
-|             |                   |
 | FRL1004     | Spanish Language |
-|             |                   |
 | MGT1001     | Ethics & Values |
 | MGT1002     | Lean Startup Management |
 | HUM2003     | Cost & Management Accounting |
-|             |                   |
 | PHY1009     | Engineering Mechanics |
 | PHY1008     | Modern Physics |
 | PHY2004     | Optoelectronics |
 | PHY2005     | Nanotechnology |
-|             |                   |
 | MEC1004     | Engineering Drawing |
 | MEC1006     | Introduction to Robotics |
 | MEC2016     | Robot Kinematics & Dynamics |
-|             |                   |
 | STS1002     | Aptitude |
 | STS1007     | Arithmetic Problem Solving |
 | STS2006     | Skill Enhancement |
 | STS2007     | Enhancing Problem Solving Skills |
 | STS3006     | Basic Competitive Coding I |
 | STS4005     | Basic Competitive Coding II |
-|             |                   |
 | CHY1001     | Environmental Studies |
 | CHY1004     | Engineering Chemistry |
 | CHY1007     | Energy Materials & Applications |
 | CHY1005     | Industrial Chemistry |
 | CHY1006     | Corrosion Science & Engineering |
 | CHY2002     | Organic Electronics |
-|             |                   |
 | MAT1001     | Calculus for Engineers |
 | MAT1002     | Applications of Differential & Difference Equations |
 | MAT1011     | Applied Statistics |
 | MAT2005     | Linear Algebra |
 | MAT1003     | Discrete Mathematical Structures |
 | MAT2003     | Optimization Techniques |
-|             |                   |
 | Value Added Course | Advanced Data Analytics Tools|
 | Value Added Course | Data Science & Advanced Analytics| 
 | Value Added Course | Environmental Chemistry & Pollution Control|
-|             |                   |
 | ECS1001     | Engineering Clinics I |
 | ECS1002     | Engineering Clinics II |
 | CAP4001     | Capstone Project |
@@ -137,6 +125,8 @@
 
 ### Skills 
 * C Programming
+  ![image](https://github.com/KMORaza/KMORaza/assets/141234596/2f031750-86d9-437f-b4fe-5a2161c03c8f)
+
 * R Programming
 * Java Programming
 * Android App Development
