@@ -160,7 +160,6 @@
 * Hospital Management Software (Project for the course Software Engineering (CSE1005))
 * Fourier Transform Visualizer
 * Contour Plotter Application
-* Smart Door System Design using Piezoelectric Transducer
 * 3D Graphing Software
 * Desktop Spreadsheet Software
 * Integral Visualization Software
