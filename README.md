@@ -176,3 +176,8 @@
 * Engineering Clinics I: Arduino based Smart Lock System
 * Engineering Clinics II: Smart Irrigation System using NodeMCU, IoT and Android
 * Senior Design Project: Surface Damage Detection and Analysis using Machine Learning
+
+### Activities
+* Weightlifting
+* Football
+* Cycling
