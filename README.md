@@ -176,6 +176,9 @@
 * Engineering Clinics I: Arduino based Smart Lock System
 * Engineering Clinics II: Smart Irrigation System using NodeMCU, IoT and Android
 * Senior Design Project: Surface Damage Detection and Analysis using Machine Learning
+* [Data Visualization Tool](https://001-simple-data-visualization-tool.netlify.app/)
+* [To-Do List Web App](https://002-todo-list-web-app.netlify.app/)
+* [Scientific Calculator Web App](https://003-scientific-calculator-web-app.netlify.app/) 
 
 ### Activities
 * Weightlifting
