@@ -182,9 +182,7 @@
 * [RGB Color Picker](https://007-rbg-color-picker.netlify.app/)
 * [Trigonometry Calculator](https://008-trigonometry-calculator.netlify.app/)
 * [Simulation of Potts Model](https://009-potts-model-simulation.netlify.app/)
-* Pokédex Web App
-  * [Version-1](https://010-pokedex-version1.netlify.app/) 
-  * [Version-2](https://011-pokedex-version2.netlify.app/) 
+* [Pokédex Web App](https://011-pokedex-version2.netlify.app/) 
 
 ### Activities
 * Weightlifting
