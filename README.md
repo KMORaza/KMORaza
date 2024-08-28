@@ -183,10 +183,12 @@
 * [Trigonometry Calculator](https://008-trigonometry-calculator.netlify.app/)
 * [Pokédex Web App](https://012-pokedex-version3.netlify.app/) 
 * [BMI Calculator](https://013-bmi-calculator.netlify.app/)
-
-
-
-
+* [Home Loan Calculator](https://014-home-loan-calculator.netlify.app/)
+* [QR Code Creator Web App](https://015-qrcode-creator.netlify.app/)
+* [Text Editor Web App](https://017-text-editor.netlify.app/)
+* [Barcode & QR Code Reader Web App](https://016-barcode-and-qrcode-reader.netlify.app/)
+* [Memo Web Application](https://018-memo-app.netlify.app/)
+* [Periodic Table](https://019-periodic-table.netlify.app/) 
 
 ### Activities
 * Weightlifting
