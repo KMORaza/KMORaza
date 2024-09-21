@@ -1,4 +1,4 @@
-### Bachelor of Computer Science & Engineering
+### BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE) 
 * CSE1006 (Foundations for Data Analytics) 
 * CSE1004 (Problem Solving using Java)
 * CSE1005 (Software Engineering)
@@ -123,7 +123,7 @@
 | BIC4002     | Senior Design Project |
 
 
-### Skills 
+### SKILLS 
 * C Programming
 * R Programming
 * Java Programming
@@ -146,7 +146,7 @@
 * Football⚽
 
 
-### Projects
+### PROJECT
 * Android QR Code Generator
 * Android QR Code and Barcode Reader App
 * Android To-Do App
@@ -190,7 +190,7 @@
 * [Memo Web Application](https://018-memo-app.netlify.app/)
 * [Periodic Table](https://019-periodic-table.netlify.app/) 
 
-### Activities
+### ACTIVITIES
 * Weightlifting
 * Football
 * Cycling
