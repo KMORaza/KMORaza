@@ -123,7 +123,7 @@
 | BIC4002     | Senior Design Project |
 
 
-### SKILLS 
+#### SKILLS 
 * C Programming
 * R Programming
 * Java Programming
@@ -146,7 +146,7 @@
 * Football⚽
 
 
-### PROJECT
+#### PROJECT
 * Android QR Code Generator
 * Android QR Code and Barcode Reader App
 * Android To-Do App
@@ -190,7 +190,7 @@
 * [Memo Web Application](https://018-memo-app.netlify.app/)
 * [Periodic Table](https://019-periodic-table.netlify.app/) 
 
-### ACTIVITIES
+#### ACTIVITIES
 * Weightlifting
 * Football
 * Cycling
