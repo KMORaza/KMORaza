@@ -146,7 +146,7 @@
 * Football⚽
 
 
-#### PROJECT
+#### PROJECTS
 * Android QR Code Generator
 * Android QR Code and Barcode Reader App
 * Android To-Do App
