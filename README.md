@@ -30,6 +30,7 @@
 * PHY1008 (Modern Physics)
 * PHY2004 (Optoelectronics)
 * PHY2005 (Nanotechnology)
+* PHY2006 (Solar Photovoltaics) 
 * MEC1004 (Engineering Drawing) 
 * MEC1006 (Introduction to Robotics)
 * MEC2016 (Robot Kinematics & Dynamics)
@@ -93,6 +94,7 @@
 | PHY1008     | Modern Physics |
 | PHY2004     | Optoelectronics |
 | PHY2005     | Nanotechnology |
+| PHY2006     | Solar Photovoltaics |
 | MEC1004     | Engineering Drawing |
 | MEC1006     | Introduction to Robotics |
 | MEC2016     | Robot Kinematics & Dynamics |
