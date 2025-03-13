@@ -226,7 +226,7 @@
 * __*Trigonometry Calculator*__
     * [Click here](https://008-trigonometry-calculator.netlify.app/)
 * __*Pokédex Web App*__
-    * [](https://012-pokedex-version3.netlify.app/) 
+    * [Click here](https://012-pokedex-version3.netlify.app/) 
 * __*BMI Calculator*__
     * [Click here](https://013-bmi-calculator.netlify.app/)
 * __*Home Loan Calculator*__
