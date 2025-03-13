@@ -125,7 +125,7 @@
 | BIC4002     | Senior Design Project |
 
 
-#### SKILLS 
+**SKILLS** 
 * C Programming
 * R Programming
 * Java Programming
@@ -253,7 +253,7 @@
     *  The major rings i.e. D-Ring, C-Ring, B-Ring, A-Ring, F-Ring are present along with Cassini-Region, Roche-Region, structures within Cassini-Region, etc.
     *  The project is written entirely in OpenSCAD
 
-#### ACTIVITIES
+**ACTIVITIES**
 * Weightlifting
 * Football
 * Cycling
