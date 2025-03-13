@@ -148,7 +148,8 @@
 * Football⚽
 
 
-#### PROJECTS
+
+**PROJECTS**
 * __*Android QR Code Generator*__
     * This is an user-friendly Android app that creates QR code based on texts, URLs or any paragraphs typed by user. QR code can be saved and shared as PNG file. 
 * __*Android QR Code and Barcode Reader App*__
@@ -252,6 +253,7 @@
     *  Significant families of moons of Saturn included are Major moons, Gallic moons and Norse moons.
     *  The major rings i.e. D-Ring, C-Ring, B-Ring, A-Ring, F-Ring are present along with Cassini-Region, Roche-Region, structures within Cassini-Region, etc.
     *  The project is written entirely in OpenSCAD
+
 
 **ACTIVITIES**
 * Weightlifting
