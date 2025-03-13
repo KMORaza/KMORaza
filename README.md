@@ -1,4 +1,4 @@
-**▶ `BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)`** 
+**▶ BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
 * CSE1006 (Foundations for Data Analytics) 
 * CSE1004 (Problem Solving using Java)
 * CSE1005 (Software Engineering)
