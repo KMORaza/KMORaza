@@ -149,7 +149,7 @@
 
 
 #### PROJECTS
-*  <u>Android QR Code Generator</u>
+*  __*Android QR Code Generator*__
   * This is an user-friendly Android app that creates QR code based on texts, URLs or any paragraphs typed by user. QR code can be saved and shared as PNG file. 
 * Android QR Code and Barcode Reader App
   * Android app which utilizes ZXing library & scans and reads barcodes and QR codes and saves the obtained outputs in a list which can be deleted further. 
