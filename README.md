@@ -161,11 +161,15 @@
 * __*Desktop PDF Modification Tool*__
     * Desktop app that modifies PDF by rotating, adding, deleting pages of PDF document.
 * __*IoT-based Mini Weather Station (Project for the course Internet of Things (CSE4011))*__
-    * This is a mini weather monitoring system built using internet of things (IoT), Arduino UNO and involves a variety of sensors. The system acquires weather data in the vicinity using the sensors and uses internet for sharing the data so the weather monitoring tasks can be performed. ESP8266 Wi-Fi module enables internet connectivity using TCP communication protocol and the weather conditions i.e. temperature, humidity, air quality and atmospheric pressure are displayed while the weather report will be displayed on LCD screen used in the system. The system utilizes DHT11 sensor (for temperature & humidity), BMP180 sensor (for atmospheric pressure) and MQ135 sensor (for air quality).
+    * This is a mini weather monitoring system built using internet of things (IoT), Arduino UNO and involves a variety of sensors.
+    * The system acquires weather data in the vicinity using the sensors and uses internet for sharing the data so the weather monitoring tasks can be performed.
+    * ESP8266 Wi-Fi module enables internet connectivity using TCP communication protocol and the weather conditions i.e. temperature, humidity, air quality and atmospheric pressure are displayed while the weather report will be displayed on LCD screen used in the system.
+    * The system utilizes DHT11 sensor (for temperature & humidity), BMP180 sensor (for atmospheric pressure) and MQ135 sensor (for air quality).
 * __*Desktop Code Parser & UML Maker for Java Codes*__
     * A desktop application that parses Java code entered by user and generates UML diagrams.
 * __*Desktop To-Do App*__
-    * This is a task management application for desktop PCs. It allows user to note all tasks save them in a file and user can also open pre-existing files from PC.
+    * This is a task management application for desktop PCs.
+    * It allows user to note all tasks save them in a file and user can also open pre-existing files from PC.
 * __*Desktop Image Cropping Software*__
     * Desktop application that crops image as per the dimensions entered by user.
 * __*Desktop PDF Merger Tool*__
@@ -173,13 +177,17 @@
 * __*Desktop Python Code Editor**__
     * A lightweight desktop app for Python programming.
 * __*Hospital Management Software (Project for the course Software Engineering (CSE1005))*__
-    * This software assists in managing medical conditions & records of patient, details of doctor/staff, services offered by the clinic, and booking & availability of rooms. The software uses SQL database for storage of doctor/staff user credentials and all sort of details. I built this project for Software Engineering course in my 3rd academic year.
+    * This software assists in managing medical conditions & records of patient, details of doctor/staff, services offered by the clinic, and booking & availability of rooms. The software uses SQL database for storage of doctor/staff user credentials and all sort of details.
+    * I built this project for Software Engineering course in my 3rd academic year.
 * __*Fourier Transform Visualizer*__
     * A Python application for visualizing Fourier Transforms.
 * __*Contour Plotter Application*__
-    * This is a desktop application that allows users to generate 3D contour plots based on mathematical expressions and visualize them in a separate window. Additionally, it provides functionality to save the generated plots as either PNG or can print it to PDF file. This app utilize external libraries for computations and processing of contour plots.
+    * This is a desktop application that allows users to generate 3D contour plots based on mathematical expressions and visualize them in a separate window.
+    * Additionally, it provides functionality to save the generated plots as either PNG or can print it to PDF file.
+    * This app utilize external libraries for computations and processing of contour plots.
 * __*3D Graphing Software*__
-    * This desktop application visualizes mathematical functions through 3D mesh-like graphs. Use shall write the mathematical functions.
+    * This desktop application visualizes mathematical functions through 3D mesh-like graphs.
+    * Use shall write the mathematical functions.
 * __*Desktop Spreadsheet Software*__
     * Desktop software in which user can create, edit, save and export spreadsheets and workbooks.
 * __*Integral Visualization Software*__
@@ -187,29 +195,44 @@
 * __*Command Prompt Emulator*__
     * Desktop app that replicates the actual Command Prompt (cmd.exe) and performs all the functions. 
 * __*Desktop Graphing Tool*__
-    * This is a desktop application that enables user to visualize mathematical functions via 2D plots. User shall write the mathematical functions, variables and data values.
+    * This is a desktop application that enables user to visualize mathematical functions via 2D plots.
+    * User shall write the mathematical functions, variables and data values.
 * __*Polynomial Evaluation Software*__
-    * This desktop software offers user the facility to perform different operation on polynomial functions i.e. addition, subtraction, multiplication, division, integral & differential calculus, and visualization. It is required to write the commands and polynomial expressions correctly for a specific task that is to be performed. The software includes a detailed documentation that acts as user guide about how to use the software.
+    * This desktop software offers user the facility to perform different operation on polynomial functions i.e. addition, subtraction, multiplication, division, integral & differential calculus, and visualization.
+    * It is required to write the commands and polynomial expressions correctly for a specific task that is to be performed.
+    * The software includes a detailed documentation that acts as user guide about how to use the software.
 * __*Liquid Level Monitoring System using NI LabVIEW*__
     * Liquid level monitoring system using NI LabVIEW.
 * __*Text to Speech Converter using NI LabVIEW*__
-    * This LabVIEW-based application reads out the text files using constructor node and invoke node. The text to speech conversion is carried out using speech synthesizer and a component called Speak.The components for performing the tasks are provided by .NET framework.
+    * This LabVIEW-based application reads out the text files using constructor node and invoke node.
+    * The text to speech conversion is carried out using speech synthesizer and a component called Speak.
+    * The components for performing the tasks are provided by .NET framework.
 * __*CPU Scheduler for Desktop*__
     * A desktop tool that demonstrates CPU Scheduling and involves six major scheduling algorithms.
 * __*Data Structures Visualization App*__
-    * A simple desktop app by which user can design some common data structures by entering the required values. This app is quite simple and doesn't have much functionalities. 
+    * A simple desktop app by which user can design some common data structures by entering the required values.
+    * This app is quite simple and doesn't have much functionalities. 
 * __*Desktop Paint App*__
     * Paint application for desktop PCs
 * __*Simulation of Antikythera Mechanism*__
-    * This application is developed to simulate the functionality and features of the historic Antikythera Mechanism, an ancient Greek analog computer. Built with JavaFX, the simulation replicates the movements, calculations, and functionalities of Antikythera Mechanism, offering a modern interpretation.
-    * ![Click here](https://github.com/KMORaza/Antikythera_Mechanism_Simulation)
+    * This application is developed to simulate the functionality and features of the historic Antikythera Mechanism, an ancient Greek analog computer.
+    *  Built with JavaFX, the simulation replicates the movements, calculations, and functionalities of Antikythera Mechanism, offering a modern interpretation.
+    * [Click here](https://github.com/KMORaza/Antikythera_Mechanism_Simulation)
 * __*Analysis of Modern Periodic Table using Machine Learning*__
     * Analysis of Modern Periodic Table using some Machine Learning techniques
-    * ![Click here](https://github.com/KMORaza/Periodic_Table_Analysis)
+    * [Click here](https://github.com/KMORaza/Periodic_Table_Analysis)
 * __*Engineering Clinics I: Arduino based Smart Lock System*__
-    * Our group built this smart lock system using Arduino UNO and RFID-RC522 Module. This project automates manual locking system and makes it more secured. Moreover, it is economically inexpensive as well as user-friendly. I'm really thankful to my entire team for all the tasks including design, assembly, programming, resolving errors, and documentation. We built this project for our first engineering clinics in university.
+    * Our group built this smart lock system using Arduino UNO and RFID-RC522 Module.
+    * This project automates manual locking system and makes it more secured. Moreover, it is economically inexpensive as well as user-friendly.
+    * I'm really thankful to my entire team for all the tasks including design, assembly, programming, fixing errors, and documentation.
+    * We built this project for our first engineering clinics in university.
 * __*Engineering Clinics II: Smart Irrigation System using NodeMCU, IoT and Android*__
-    * The system aims to implement smart and efficient irrigation/gardening practices via internet of things, cloud technology, a variety of sensors along with an Android app for better monitoring. We used NodeMCU for transferring data through Wi-Fi and Firebase is used for storage. Android app is used for monitoring and analyzing data. Moreover minimization of water wastage and enhancing the utilization further becomes another advantage that must be considered since traditional irrigation techniques wastes a lot of water. The sensors we used are DHT11 (for temperature/humidity) and soil moisture sensor. I'm really thankful to my entire team members for all the tasks including design, assembly, programming, resolving errors, and documentation. We built this project for our second engineering clinics in university.
+    * The system aims to implement smart and efficient irrigation/gardening practices via internet of things, cloud technology, a variety of sensors along with an Android app for better monitoring.
+    * We used NodeMCU for transferring data through Wi-Fi and Firebase is used for storage. Android app is used for monitoring and analyzing data.
+    * Moreover minimization of water wastage and enhancing the utilization further becomes another advantage that must be considered since traditional irrigation techniques wastes a lot of water.
+    * The sensors we used are DHT11 (for temperature/humidity) and soil moisture sensor.
+    * I'm really thankful to my entire team members for all the tasks including design, assembly, programming, resolving errors, and documentation.
+    * We built this project for our second engineering clinics in university.
 * __*Senior Design Project: Surface Damage Detection and Analysis using Machine Learning*__
     * Road Crack & Pothole Detection — Bringing this to a desktop application empowers stakeholders at various levels, from local authorities to transportation agencies leading to more comprehensive road maintenance strategies and safer driving conditions. 
     * Concrete Crack Classification — By automating the identification of concrete cracks, the solution aids in the early detection of structural weaknesses in buildings and bridges. This proactive approach can prevent potential disasters, ensuring the safety of inhabitants and preserving infrastructure integrity.
