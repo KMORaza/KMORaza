@@ -199,10 +199,10 @@
   * Paint application for desktop PCs
 * Simulation of Antikythera Mechanism
   * This application is developed to simulate the functionality and features of the historic Antikythera Mechanism, an ancient Greek analog computer. Built with JavaFX, the simulation replicates the movements, calculations, and functionalities of Antikythera Mechanism, offering a modern interpretation.
-![Click here](https://github.com/KMORaza/Antikythera_Mechanism_Simulation)
+  * ![Click here](https://github.com/KMORaza/Antikythera_Mechanism_Simulation)
 * Analysis of Modern Periodic Table using Machine Learning
   * Analysis of Modern Periodic Table using some Machine Learning techniques
-![Click here](https://github.com/KMORaza/Periodic_Table_Analysis)
+  * ![Click here](https://github.com/KMORaza/Periodic_Table_Analysis)
 * Engineering Clinics I: Arduino based Smart Lock System
   * Our group built this smart lock system using Arduino UNO and RFID-RC522 Module. This project automates manual locking system and makes it more secured. Moreover, it is economically inexpensive as well as user-friendly. I'm really thankful to my entire team for all the tasks including design, assembly, programming, resolving errors, and documentation. We built this project for our first engineering clinics in university.
 * Engineering Clinics II: Smart Irrigation System using NodeMCU, IoT and Android
@@ -222,16 +222,31 @@
 * Scientific Calculator Web App
   * [Click here](https://003-scientific-calculator-web-app.netlify.app/)
 * RGB Color Picker 
- * [Click here](https://007-rbg-color-picker.netlify.app/)
-* [Trigonometry Calculator](https://008-trigonometry-calculator.netlify.app/)
-* [Pokédex Web App](https://012-pokedex-version3.netlify.app/) 
-* [BMI Calculator](https://013-bmi-calculator.netlify.app/)
-* [Home Loan Calculator](https://014-home-loan-calculator.netlify.app/)
-* [QR Code Creator Web App](https://015-qrcode-creator.netlify.app/)
-* [Text Editor Web App](https://017-text-editor.netlify.app/)
-* [Barcode & QR Code Reader Web App](https://016-barcode-and-qrcode-reader.netlify.app/)
-* [Memo Web Application](https://018-memo-app.netlify.app/)
-* [Periodic Table](https://019-periodic-table.netlify.app/) 
+  * [Click here](https://007-rbg-color-picker.netlify.app/)
+* Trigonometry Calculator
+  * [Click here](https://008-trigonometry-calculator.netlify.app/)
+* Pokédex Web App
+  * [](https://012-pokedex-version3.netlify.app/) 
+* BMI Calculator
+  * [Click here](https://013-bmi-calculator.netlify.app/)
+* Home Loan Calculator 
+  * [Click here](https://014-home-loan-calculator.netlify.app/)
+* QR Code Creator Web App
+  * [Click here](https://015-qrcode-creator.netlify.app/)
+* Text Editor Web App
+  * [Click here](https://017-text-editor.netlify.app/)
+* Barcode & QR Code Reader Web App
+  * [Click here](https://016-barcode-and-qrcode-reader.netlify.app/)
+* Memo Web Application
+  * [Click here](https://018-memo-app.netlify.app/)
+* Periodic Table App
+  * [Click here](https://019-periodic-table.netlify.app/) 
+* Visualization of Harmonic Oscillator
+  * [Click here](https://020-harmonic-oscillator-visualization.netlify.app/) 
+* Simulation of Potts Model
+  * [Click here](https://009-potts-model-simulation.netlify.app/) 
+* Simulation of Heisenberg Model
+  * [Click here](https://022-heisenberg-model-simulation.netlify.app/) 
 
 #### ACTIVITIES
 * Weightlifting
