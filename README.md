@@ -154,13 +154,10 @@
 **▶ PROJECTS**
 * __*Android QR Code Generator*__
     * This is an user-friendly Android app that creates QR code based on texts, URLs or any paragraphs typed by user. QR code can be saved and shared as PNG file.
-    
 * __*Android QR Code and Barcode Reader App*__
     * Android app which utilizes ZXing library & scans and reads barcodes and QR codes and saves the obtained outputs in a list which can be deleted further.
-    
 * __*Android To-Do App*__
     * An Android app that helps user to note down, edit & save tasks. Similar to To-Do application I developed for desktop PCs.
-    
 * __*Desktop PDF Modification Tool*__
     * Desktop app that modifies PDF by rotating, adding, deleting pages of PDF document.
 * __*IoT-based Mini Weather Station (Project for the course Internet of Things (CSE4011))*__
