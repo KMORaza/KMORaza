@@ -174,7 +174,7 @@
     * Desktop application that crops image as per the dimensions entered by user.
 * __*Desktop PDF Merger Tool*__
     * Created a tool to merge multiple PDFs into a single file on desktop.
-* __*Desktop Python Code Editor**__
+* __*Desktop Python Code Editor*__
     * A lightweight desktop app for Python programming.
 * __*Hospital Management Software (Project for the course Software Engineering (CSE1005))*__
     * This software assists in managing medical conditions & records of patient, details of doctor/staff, services offered by the clinic, and booking & availability of rooms. The software uses SQL database for storage of doctor/staff user credentials and all sort of details.
