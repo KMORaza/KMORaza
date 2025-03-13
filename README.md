@@ -1,4 +1,4 @@
-**▷ BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
+**▶ BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
 * CSE1006 (Foundations for Data Analytics) 
 * CSE1004 (Problem Solving using Java)
 * CSE1005 (Software Engineering)
@@ -127,7 +127,7 @@
 
 
 
-**SKILLS** 
+**▶ SKILLS** 
 * C Programming
 * R Programming
 * Java Programming
@@ -151,7 +151,7 @@
 
 
 
-**PROJECTS**
+**▶ PROJECTS**
 * __*Android QR Code Generator*__
     * This is an user-friendly Android app that creates QR code based on texts, URLs or any paragraphs typed by user. QR code can be saved and shared as PNG file. 
 * __*Android QR Code and Barcode Reader App*__
@@ -257,7 +257,7 @@
     *  The project is written entirely in OpenSCAD
 
 
-**ACTIVITIES**
+**▶ ACTIVITIES**
 * Weightlifting
 * Football
 * Cycling
