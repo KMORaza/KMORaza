@@ -247,7 +247,23 @@
     * [Click here](https://009-potts-model-simulation.netlify.app/) 
 * __*Simulation of Heisenberg Model*__
     * [Click here](https://022-heisenberg-model-simulation.netlify.app/) 
-
+* __*Physical Characteristics of Saturn Modelled/Simulated in OpenSCAD*__
+    * Overview of model/simulation —
+• Saturn 🪐 (Radius = 58232 KM) 
+• D-Ring (66900 –76517 KM from Saturn)
+• C-Ring (74658 – 92000 KM from Saturn) 
+• B-Ring (92000 –117580 KM from Saturn)
+• Cassini Region (117580 –122170 KM from Saturn)
+• A-Ring (122170 –136775 KM from Saturn) 
+• Roche Division (136775 – 139380 KM from Saturn) 
+• F-Ring (140180 KM from Saturn)
+• Janus/Epimetheus Ring (149000–154000 KM from Saturn)
+• G-Ring (166000–175000 KM from Saturn)
+• Methone Ring Arc (194230 KM from Saturn)
+• Anthe Ring Arc (197665 KM from Saturn)
+• Pallene Ring (211000–213500 KM from Saturn)
+• Significant families of moons of Saturn (Major moons, Gallic moons, Norse moonsl
+• Smaller natural Satellites
 #### ACTIVITIES
 * Weightlifting
 * Football
