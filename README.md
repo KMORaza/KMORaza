@@ -277,7 +277,7 @@
     *  Model/Simulation of system of moons and rings of Saturn
     *  Significant families of moons of Saturn included are Major moons, Gallic moons and Norse moons.
     *  The major rings i.e. D-Ring, C-Ring, B-Ring, A-Ring, F-Ring are present along with Cassini-Region, Roche-Region, structures within Cassini-Region, etc.
-    *  The project is written entirely in OpenSCAD
+    *  Written entirely in OpenSCAD. 
 
 
 **▶ ACTIVITIES**
