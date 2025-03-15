@@ -332,8 +332,9 @@
        * Reversible Circuit Synthesis
     * [Python notebooks can viewed here](https://github.com/KMORaza/Py-ACO?tab=readme-ov-file) and [here is another repository](https://github.com/KMORaza/Ant_Colony_Optimization)
 * __*Implementation of major Advanced Data Structures using Python*__
+    * I have written 74 advanced data structures. 
     * [Here is repository of C++ programs](https://github.com/KMORaza/Advanced_Data_Structures) and [this one is Python notebook](https://github.com/KMORaza/Advanced_Data_Structures_using_Python/blob/main/Advanced_Data_Structures.ipynb) 
-    * I have written about 74 advanced data structures
+    
 
 **▶ ACTIVITIES**
 * Weightlifting
