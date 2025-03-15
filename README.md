@@ -281,7 +281,7 @@
     *  Significant families of moons of Saturn included are Major moons, Gallic moons and Norse moons.
     *  The major rings i.e. D-Ring, C-Ring, B-Ring, A-Ring, F-Ring are present along with Cassini-Region, Roche-Region, structures within Cassini-Region, etc.
     *  Written entirely in OpenSCAD. 
-* __*Ant Colony Optimization & some applications using Python*__
+* __*Ant Colony Optimization & Applications*__
     * Basic Implementation of Ant Colony Optimization
     * Ant Colony Optimization with a bias towards exploitation
     * Ant Colony Optimization with a local pheromone updating rule
@@ -304,7 +304,33 @@
        * Single-Machine Total Tardiness Problem with Sequence Dependent Setup Times
        * Multistage Flowshop Scheduling Problem
        * Assembly Sequence Planning
-
+    * Applications in Vehicle Routing
+       * Capacitated Vehicle Routing Problem
+       * Multi-Depot Vehicle Routing Problem
+       * Period Vehicle Routing Problem
+       * Split Delivery Vehicle Routing Problem
+       * Stochastic Vehicle Routing Problem
+       * Vehicle Routing Problem with Pick-Up and Delivery
+       * Vehicle Routing Problem with Time Windows
+       * Time Dependent Vehicle Routing Problem with Time Windows
+       * Vehicle Routing Problem with Time Windows and Multiple Service Workers
+    * Applications in Assignment
+       * Quadratic Assignment Problem
+       * Generalized Assignment Problem
+       * Frequency Assignment Problem
+       * Redundancy Allocation Problem
+    * Applications in Sets
+       * Set Cover Problem
+       * Partition Problem
+       * Weight Constrained Graph Tree Partition Problem
+       * Arc-Weighted l-Cardinality Tree Problem
+       * Multiple Knapsack Problem
+       * Maximum Independent Set Problem
+    * Applications in Electronics
+       * Antenna Optimization
+       * CMOS Amplifier Optimization
+       * Reversible Circuit Synthesis
+    * `[Python notebooks](https://github.com/KMORaza/Py-ACO?tab=readme-ov-file) & [another repository](https://github.com/KMORaza/Ant_Colony_Optimization)`
 **▶ ACTIVITIES**
 * Weightlifting
 * Football
