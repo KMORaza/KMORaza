@@ -330,7 +330,7 @@
        * Antenna Optimization
        * CMOS Amplifier Optimization
        * Reversible Circuit Synthesis
-    * [`Python notebooks`](https://github.com/KMORaza/Py-ACO?tab=readme-ov-file) `and` [`another repository`](https://github.com/KMORaza/Ant_Colony_Optimization)
+    * [`Python notebooks`](https://github.com/KMORaza/Py-ACO?tab=readme-ov-file) and [`another repository`](https://github.com/KMORaza/Ant_Colony_Optimization)
 
 **▶ ACTIVITIES**
 * Weightlifting
