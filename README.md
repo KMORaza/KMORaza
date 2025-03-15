@@ -222,7 +222,7 @@
     * [Click here](https://github.com/KMORaza/Antikythera_Mechanism_Simulation)
 * __*Analysis of Modern Periodic Table using Machine Learning*__
     * Analysis of Modern Periodic Table using some Machine Learning techniques
-    * [Click here](https://github.com/KMORaza/Periodic_Table_Analysis)
+    * [Click here to view repository](https://github.com/KMORaza/Periodic_Table_Analysis) and [Click here to view notebook](https://github.com/KMORaza/Periodic_Table_Analysis/blob/main/Periodic_Table_Analysis.ipynb) 
 * __*Engineering Clinics I: Arduino based Smart Lock System*__
     * Our group built this smart lock system using Arduino UNO and RFID-RC522 Module.
     * This project automates manual locking system and makes it more secured. Moreover, it is economically inexpensive as well as user-friendly.
@@ -281,7 +281,29 @@
     *  Significant families of moons of Saturn included are Major moons, Gallic moons and Norse moons.
     *  The major rings i.e. D-Ring, C-Ring, B-Ring, A-Ring, F-Ring are present along with Cassini-Region, Roche-Region, structures within Cassini-Region, etc.
     *  Written entirely in OpenSCAD. 
-
+* __*Ant Colony Optimization & some applications using Python*__
+    * Basic Implementation of Ant Colony Optimization
+    * Ant Colony Optimization with a bias towards exploitation
+    * Ant Colony Optimization with a local pheromone updating rule
+    * Elitist Ant System
+    * Max-Min Ant System
+    * Rank-based ant system
+    * Parallel Ant Colony
+    * Optimization
+    * Continuous Orthogonal Ant Colony
+    * Recursive Ant Colony Optimization
+    * Applications in Scheduling
+       * Sequential Ordering Problem
+       * Job-Shop Scheduling Problem
+       * Open-Shop cheduling Problem
+       * Permutation Flow Shop Problem
+       * Single Machine Total Tardiness Problem
+       * Single Machine Total Weighted Tardiness Problem
+       * Resource-Constrained Project Scheduling Problem
+       * Group-Shop Scheduling Problem
+       * Single-Machine Total Tardiness Problem with Sequence Dependent Setup Times
+       * Multistage Flowshop Scheduling Problem
+       * Assembly Sequence Planning
 
 **▶ ACTIVITIES**
 * Weightlifting
