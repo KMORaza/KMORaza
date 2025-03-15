@@ -295,7 +295,7 @@
     * Applications in Scheduling
        * Sequential Ordering Problem
        * Job-Shop Scheduling Problem
-       * Open-Shop cheduling Problem
+       * Open-Shop Scheduling Problem
        * Permutation Flow Shop Problem
        * Single Machine Total Tardiness Problem
        * Single Machine Total Weighted Tardiness Problem
