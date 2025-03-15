@@ -243,7 +243,7 @@
     * Steel Damage Detection — The early detection of steel damage is critical in industries ranging from construction to aerospace. The solution provides a reliable method for identifying defects in steel structures, ensuring compliance with stringent safety regulations and enhancing structural reliability.
     * Car Damage Detection — Vehicle safety is paramount for both drivers and pedestrians. By automating the detection of car damage, your project contributes to the timely assessment of vehicle integrity, facilitating necessary repairs and ultimately enhancing road safety.
     * Ice Fracture Detection & Analysis — In regions prone to icy conditions, the detection and analysis of ice fractures are instrumental in predicting and mitigating potential hazards. The solution enables proactive measures to safeguard communities and infrastructure during cold weather events.
-    * _I built this entire project in my final academic year to fulfill the needs of Senior Design Project course which was meant to be done individually._
+    * _`I built this entire project in my final academic year to fulfill the needs of Senior Design Project course which was meant to be done individually.`_
 * __*Data Visualization Tool*__
     * [Click here](https://001-simple-data-visualization-tool.netlify.app/)
 * __*To-Do List Web App*__
