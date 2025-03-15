@@ -160,11 +160,13 @@
     * An Android app that helps user to note down, edit & save tasks. Similar to To-Do application I developed for desktop PCs.
 * __*Desktop PDF Modification Tool*__
     * Desktop app that modifies PDF by rotating, adding, deleting pages of PDF document.
-* __*IoT-based Mini Weather Station (Project for the course Internet of Things (CSE4011))*__
+* __*IoT-based Mini Weather Station*__
     * This is a mini weather monitoring system built using internet of things (IoT), Arduino UNO and involves a variety of sensors.
     * The system acquires weather data in the vicinity using the sensors and uses internet for sharing the data so the weather monitoring tasks can be performed.
     * ESP8266 Wi-Fi module enables internet connectivity using TCP communication protocol and the weather conditions i.e. temperature, humidity, air quality and atmospheric pressure are displayed while the weather report will be displayed on LCD screen used in the system.
     * The system utilizes DHT11 sensor (for temperature & humidity), BMP180 sensor (for atmospheric pressure) and MQ135 sensor (for air quality).
+    * I built this project to serve the purpose of project component of the course Internet of Things in my 3rd academic year. 
+
 * __*Desktop Code Parser & UML Maker for Java Codes*__
     * A desktop application that parses Java code entered by user and generates UML diagrams.
 * __*Desktop To-Do App*__
@@ -176,8 +178,9 @@
     * Created a tool to merge multiple PDFs into a single file on desktop.
 * __*Desktop Python Code Editor*__
     * A lightweight desktop app for Python programming.
-* __*Hospital Management Software (Project for the course Software Engineering (CSE1005))*__
-    * This software assists in managing medical conditions & records of patient, details of doctor/staff, services offered by the clinic, and booking & availability of rooms. The software uses SQL database for storage of doctor/staff user credentials and all sort of details.
+* __*Hospital Management Software*__
+    * This software assists in managing medical conditions & records of patient, details of doctor/staff, services offered by the clinic, and booking & availability of rooms.
+    * The software uses SQL database for storage of doctor/staff user credentials and all sort of details.
     * I built this project for Software Engineering course in my 3rd academic year.
 * __*Fourier Transform Visualizer*__
     * A Python application for visualizing Fourier Transforms.
@@ -231,7 +234,7 @@
     * We used NodeMCU for transferring data through Wi-Fi and Firebase is used for storage. Android app is used for monitoring and analyzing data.
     * Moreover minimization of water wastage and enhancing the utilization further becomes another advantage that must be considered since traditional irrigation techniques wastes a lot of water.
     * The sensors we used are DHT11 (for temperature/humidity) and soil moisture sensor.
-    * I'm really thankful to my entire team members for all the tasks including design, assembly, programming, resolving errors, and documentation.
+    * I'm really thankful to my entire team members for all the tasks including design, assembly, programming, fixing errors, and documentation.
     * We built this project for our second engineering clinics in university.
 * __*Senior Design Project: Surface Damage Detection and Analysis using Machine Learning*__
     * Road Crack & Pothole Detection — Bringing this to a desktop application empowers stakeholders at various levels, from local authorities to transportation agencies leading to more comprehensive road maintenance strategies and safer driving conditions. 
@@ -241,6 +244,7 @@
     * Steel Damage Detection — The early detection of steel damage is critical in industries ranging from construction to aerospace. The solution provides a reliable method for identifying defects in steel structures, ensuring compliance with stringent safety regulations and enhancing structural reliability.
     * Car Damage Detection — Vehicle safety is paramount for both drivers and pedestrians. By automating the detection of car damage, your project contributes to the timely assessment of vehicle integrity, facilitating necessary repairs and ultimately enhancing road safety.
     * Ice Fracture Detection & Analysis — In regions prone to icy conditions, the detection and analysis of ice fractures are instrumental in predicting and mitigating potential hazards. The solution enables proactive measures to safeguard communities and infrastructure during cold weather events.
+    * _**I built this entire project in my final academic year to fulfill the needs of Senior Design Project course which was meant to be done individually._ 
 * __*Data Visualization Tool*__
     * [Click here](https://001-simple-data-visualization-tool.netlify.app/)
 * __*To-Do List Web App*__
