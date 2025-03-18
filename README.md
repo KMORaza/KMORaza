@@ -1,20 +1,23 @@
-**▶ BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
-* CSE1006 (Foundations for Data Analytics) 
-* CSE1004 (Problem Solving using Java)
-* CSE1005 (Software Engineering)
-* CSE2005 (Object Oriented Programming)
-* CSE2008 (Operating Systems)
-* CSE4011 (Internet of Things)
-* CSE2001 (Data Structures)
-* CSE2007 (Database Management Systems)
-* CSE2011 (Cyber Security & Digital Forensics)
-* CSE3004 (Design & Analysis of Algorithms)
-* CSE4005 (Data Warehousing & Data Mining)
-* CSE3006 (Data Visualization)
-* CSE3003 (Computer Networks)
-* CSE3002 (Artificial Intelligence)
-* ENG1001 (English for Essential Communication)
-* ENG1002 (English for Effective Communication)
+**▶ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
+My studies at the university —
+* _Computer Science majors_
+  * Foundations for Data Analytics
+  * Problem Solving using Java
+  * Software Engineering
+  * Object Oriented Programming
+  * Operating Systems
+  * Internet of Things
+  * Data Structures
+  * Database Management Systems
+  * Cyber Security & Digital Forensics
+  * Design & Analysis of Algorithms
+  * Data Warehousing & Data Mining
+  * Data Visualization
+  * Computer Networks
+  * Artificial Intelligence
+* _English category_
+  * English for Essential Communication
+* English for Effective Communication
 * ONL1001 (C Programming)
 * ECE1002 (Fundamentals of Electrical & Electronics Engineering)
 * ECE1003 (Digital Logic Design) 
