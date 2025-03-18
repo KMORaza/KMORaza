@@ -1,6 +1,8 @@
 **▶ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
 
-<u>My studies at the university</u>—
+<u>
+My studies at the university
+</u>—
 * _Computer Science majors_
   * Foundations for Data Analytics
   * Problem Solving using Java
