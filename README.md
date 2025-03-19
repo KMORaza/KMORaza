@@ -338,7 +338,7 @@ _My studies at the university_ —
        * Generalized Assignment Problem
        * Frequency Assignment Problem
        * Redundancy Allocation Problem
-    * <u>Applications in Sets</u>
+    * Applications in Sets
        * Set Cover Problem
        * Partition Problem
        * Weight Constrained Graph Tree Partition Problem
