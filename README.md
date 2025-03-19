@@ -1,6 +1,6 @@
 **▶ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
 
-My studies at the university —
+_My studies at the university_ —
 * CSE1006 (Foundations for Data Analytics)
 * CSE1004 (Problem Solving using Java)
 * CSE1005 (Software Engineering)
