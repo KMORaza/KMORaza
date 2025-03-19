@@ -1,26 +1,24 @@
 **▶ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
 
-<html><u><My studies at the university></u></html> —
-
-* _Computer Science majors_
-  * Foundations for Data Analytics
-  * Problem Solving using Java
-  * Software Engineering
-  * Object Oriented Programming
-  * Operating Systems
-  * Internet of Things
-  * Data Structures
-  * Database Management Systems
-  * Cyber Security & Digital Forensics
-  * Design & Analysis of Algorithms
-  * Data Warehousing & Data Mining
-  * Data Visualization
-  * Computer Networks
-  * Artificial Intelligence
-* _English category_
-  * English for Essential Communication
-* English for Effective Communication
-* ONL1001 (C Programming)
+My studies at the university —
+* CSE1006 (Foundations for Data Analytics)
+* CSE1004 (Problem Solving using Java)
+* CSE1005 (Software Engineering)
+* CSE2005 (Object Oriented Programming)
+* CEE2008 (Operating Systems)
+* CSE4011 (Internet of Things)
+* CSE2001 (Data Structures)
+* CSE2007 (Database Management Systems)
+* CSE2011 (Cyber Security & Digital Forensics)
+* CSE3004 (Design & Analysis of Algorithms)
+* CSE4005 (Data Warehousing & Data Mining)
+* CSE3006 (Data Visualization)
+* CSE3003 (Computer Networks)
+* CSE3002 (Artificial Intelligence)
+* ONL1001 (C Programming) 
+* ENG1001 (English for Essential Communication)
+* ENG1002 (English for Effective Communication)
+* ENG1016 (Climate Fiction & Narratives to Save the World) 
 * ECE1002 (Fundamentals of Electrical & Electronics Engineering)
 * ECE1003 (Digital Logic Design) 
 * ECE1008 (Sensors & Control Systems) 
@@ -43,8 +41,8 @@
 * STS1007 (Arithmetic Problem Solving)
 * STS2006 (Skill Enhancement)
 * STS2007 (Enhancing Problem Solving Skills)
-* STS3006 (Basic Competitive Coding I)
-* STS4005 (Basic Competitive Coding II)
+* STS3006 (Competitive Coding I)
+* STS4005 (Competitive Coding II)
 * CHY1001 (Environmental Studies)
 * CHY1004 (Engineering Chemistry)
 * CHY1007 (Energy Materials & Applications)
@@ -82,9 +80,11 @@
 | CSE3006     | Data Visualization |
 | CSE3003     | Computer Networks |
 | CSE3002     | Artificial Intelligence |
+| ONL1001     | C Programming |
+|      •      |       •       |
 | ENG1001     | English for Essential Communication |
 | ENG1002     | English for Effective Communication |
-| ONL1001     | C Programming |
+| ENG1016     | Climate Fiction & Narratives to Save the World |
 | ECE1002     | Fundamentals of Electrical & Electronics Engineering |
 | ECE1003     | Digital Logic Design |
 | ECE1008     | Sensors & Control Systems |
@@ -107,8 +107,8 @@
 | STS1007     | Arithmetic Problem Solving |
 | STS2006     | Skill Enhancement |
 | STS2007     | Enhancing Problem Solving Skills |
-| STS3006     | Basic Competitive Coding I |
-| STS4005     | Basic Competitive Coding II |
+| STS3006     | Competitive Coding I |
+| STS4005     | Competitive Coding II |
 | CHY1001     | Environmental Studies |
 | CHY1004     | Engineering Chemistry |
 | CHY1007     | Energy Materials & Applications |
