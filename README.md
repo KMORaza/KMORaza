@@ -1,6 +1,6 @@
 **▶ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
 
-<html><u>My studies at the university</u></html> —
+<html><u><My studies at the university></u></html> —
 
 * _Computer Science majors_
   * Foundations for Data Analytics
