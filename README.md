@@ -301,16 +301,16 @@ _My studies at the university_ —
     *  Written entirely in OpenSCAD.
     *  _Check_ [_repository_](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn) _and_ [_CAD scripts_](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/tree/main/Moons%20%26%20Rings%20of%20Saturn/CAD%20scripts) 
 * __*Ant Colony Optimization & Applications*__
-    * Basic Implementation of Ant Colony Optimization
-    * Ant Colony Optimization with a bias towards exploitation
-    * Ant Colony Optimization with a local pheromone updating rule
-    * Elitist Ant System
-    * Max-Min Ant System
-    * Rank-based ant system
-    * Parallel Ant Colony
-    * Optimization
-    * Continuous Orthogonal Ant Colony
-    * Recursive Ant Colony Optimization
+    * Variants of Ant Colony Optimization
+      * Basic Implementation of Ant Colony Optimization
+      * Ant Colony Optimization with a bias towards exploitation
+      * Ant Colony Optimization with a local pheromone updating rule
+      * Elitist Ant System
+      * Max-Min Ant System
+      * Rank-based ant system
+      * Parallel Ant Colony Optimization
+      * Continuous Orthogonal Ant Colony
+      * Recursive Ant Colony Optimization
     * Applications in Scheduling
        * Sequential Ordering Problem
        * Job-Shop Scheduling Problem
@@ -338,7 +338,7 @@ _My studies at the university_ —
        * Generalized Assignment Problem
        * Frequency Assignment Problem
        * Redundancy Allocation Problem
-    * Applications in Sets
+    * <u>Applications in Sets</u>
        * Set Cover Problem
        * Partition Problem
        * Weight Constrained Graph Tree Partition Problem
