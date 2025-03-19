@@ -81,7 +81,7 @@ My studies at the university —
 | CSE3003     | Computer Networks |
 | CSE3002     | Artificial Intelligence |
 | ONL1001     | C Programming |
-|      •      |       •       |
+|             |               |
 | ENG1001     | English for Essential Communication |
 | ENG1002     | English for Effective Communication |
 | ENG1016     | Climate Fiction & Narratives to Save the World |
