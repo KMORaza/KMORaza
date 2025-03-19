@@ -123,19 +123,23 @@ My studies at the university —
 | CHY1005     | Industrial Chemistry |
 | CHY1006     | Corrosion Science & Engineering |
 | CHY2002     | Organic Electronics |
-|—————————|————|
+|             |             |
 | MAT1001     | Calculus for Engineers |
 | MAT1002     | Applications of Differential & Difference Equations |
 | MAT1011     | Applied Statistics |
 | MAT2005     | Linear Algebra |
 | MAT1003     | Discrete Mathematical Structures |
 | MAT2003     | Optimization Techniques |
+|             |                |
 | Value Added Course | Advanced Data Analytics Tools|
 | Value Added Course | Data Science & Advanced Analytics| 
 | Value Added Course | Environmental Chemistry & Pollution Control|
+|             |             |
 | ECS1001     | Engineering Clinics I |
 | ECS1002     | Engineering Clinics II |
+|             |             |
 | CAP4001     | Capstone Project |
+|             |             |
 | BIC4002     | Senior Design Project |
 
 
