@@ -85,36 +85,45 @@ My studies at the university —
 | ENG1001     | English for Essential Communication |
 | ENG1002     | English for Effective Communication |
 | ENG1016     | Climate Fiction & Narratives to Save the World |
+|             |               |
 | ECE1002     | Fundamentals of Electrical & Electronics Engineering |
 | ECE1003     | Digital Logic Design |
 | ECE1008     | Sensors & Control Systems |
 | ECE2002     | Computer Organization & Architecture |
 | ECE2004     | Microcontrollers & Interfacing |
 | ECE4004     | Automotive Electronics |
+|             |               |
 | FRL1004     | Spanish Language |
+|             |               |
 | MGT1001     | Ethics & Values |
 | MGT1002     | Lean Startup Management |
+|             |                 |
 | HUM2003     | Cost & Management Accounting |
+|             |                 |
 | PHY1009     | Engineering Mechanics |
 | PHY1008     | Modern Physics |
 | PHY2004     | Optoelectronics |
 | PHY2005     | Nanotechnology |
 | PHY2006     | Solar Photovoltaics |
+|             |                |
 | MEC1004     | Engineering Drawing |
 | MEC1006     | Introduction to Robotics |
 | MEC2016     | Robot Kinematics & Dynamics |
+|             |          |
 | STS1002     | Aptitude |
 | STS1007     | Arithmetic Problem Solving |
 | STS2006     | Skill Enhancement |
 | STS2007     | Enhancing Problem Solving Skills |
 | STS3006     | Competitive Coding I |
 | STS4005     | Competitive Coding II |
+|             |               |
 | CHY1001     | Environmental Studies |
 | CHY1004     | Engineering Chemistry |
 | CHY1007     | Energy Materials & Applications |
 | CHY1005     | Industrial Chemistry |
 | CHY1006     | Corrosion Science & Engineering |
 | CHY2002     | Organic Electronics |
+|—————————|————|
 | MAT1001     | Calculus for Engineers |
 | MAT1002     | Applications of Differential & Difference Equations |
 | MAT1011     | Applied Statistics |
