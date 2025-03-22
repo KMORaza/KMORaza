@@ -1,4 +1,4 @@
-**➤ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
+**➤  EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
 
 _My studies at the university_ —
 * CSE1006 (Foundations for Data Analytics)
@@ -81,71 +81,57 @@ _My studies at the university_ —
 | CSE3003     | Computer Networks |
 | CSE3002     | Artificial Intelligence |
 | ONL1001     | C Programming |
-|             |               |
 | ENG1001     | English for Essential Communication |
 | ENG1002     | English for Effective Communication |
 | ENG1016     | Climate Fiction & Narratives to Save the World |
-|             |               |
 | ECE1002     | Fundamentals of Electrical & Electronics Engineering |
 | ECE1003     | Digital Logic Design |
 | ECE1008     | Sensors & Control Systems |
 | ECE2002     | Computer Organization & Architecture |
 | ECE2004     | Microcontrollers & Interfacing |
 | ECE4004     | Automotive Electronics |
-|             |               |
 | FRL1004     | Spanish Language |
-|             |               |
 | MGT1001     | Ethics & Values |
 | MGT1002     | Lean Startup Management |
-|             |                 |
 | HUM2003     | Cost & Management Accounting |
-|             |                 |
 | PHY1009     | Engineering Mechanics |
 | PHY1008     | Modern Physics |
 | PHY2004     | Optoelectronics |
 | PHY2005     | Nanotechnology |
 | PHY2006     | Solar Photovoltaics |
-|             |                |
 | MEC1004     | Engineering Drawing |
 | MEC1006     | Introduction to Robotics |
 | MEC2016     | Robot Kinematics & Dynamics |
-|             |          |
 | STS1002     | Aptitude |
 | STS1007     | Arithmetic Problem Solving |
 | STS2006     | Skill Enhancement |
 | STS2007     | Enhancing Problem Solving Skills |
 | STS3006     | Competitive Coding I |
 | STS4005     | Competitive Coding II |
-|             |               |
 | CHY1001     | Environmental Studies |
 | CHY1004     | Engineering Chemistry |
 | CHY1007     | Energy Materials & Applications |
 | CHY1005     | Industrial Chemistry |
 | CHY1006     | Corrosion Science & Engineering |
 | CHY2002     | Organic Electronics |
-|             |             |
 | MAT1001     | Calculus for Engineers |
 | MAT1002     | Applications of Differential & Difference Equations |
 | MAT1011     | Applied Statistics |
 | MAT2005     | Linear Algebra |
 | MAT1003     | Discrete Mathematical Structures |
 | MAT2003     | Optimization Techniques |
-|             |                |
 | Value Added Course | Advanced Data Analytics Tools|
 | Value Added Course | Data Science & Advanced Analytics| 
 | Value Added Course | Environmental Chemistry & Pollution Control|
-|             |             |
 | ECS1001     | Engineering Clinics I |
 | ECS1002     | Engineering Clinics II |
-|             |             |
 | CAP4001     | Capstone Project |
-|             |             |
 | BIC4002     | Senior Design Project |
 
 
 
 
-**▶ SKILLS** 
+**➤  SKILLS** 
 * C Programming
 * R Programming
 * Java Programming
@@ -169,7 +155,7 @@ _My studies at the university_ —
 
 
 
-**▶ PROJECTS**
+**➤  PROJECTS**
 * __*Android QR Code Generator*__
     * This is an user-friendly Android app that creates QR code based on texts, URLs or any paragraphs typed by user. QR code can be saved and shared as PNG file.
 * __*Android QR Code and Barcode Reader App*__
@@ -355,7 +341,7 @@ _My studies at the university_ —
     * [Here is repository of C++ programs](https://github.com/KMORaza/Advanced_Data_Structures) and [this one is Python notebook](https://github.com/KMORaza/Advanced_Data_Structures_using_Python/blob/main/Advanced_Data_Structures.ipynb) 
     
 
-**▶ ACTIVITIES**
+**➤  ACTIVITIES**
 * Weightlifting
 * Football
 * Cycling
