@@ -1,4 +1,4 @@
-**⮫ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
+**⮞ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
 
 _My studies at the university_ —
 * CSE1006 (Foundations for Data Analytics)
@@ -131,7 +131,7 @@ _My studies at the university_ —
 
 
 
-**➤  SKILLS** 
+**⮞  SKILLS** 
 * C Programming
 * R Programming
 * Java Programming
@@ -155,7 +155,7 @@ _My studies at the university_ —
 
 
 
-**➤  PROJECTS**
+**⮞  PROJECTS**
 * __*Android QR Code Generator*__
     * This is an user-friendly Android app that creates QR code based on texts, URLs or any paragraphs typed by user. QR code can be saved and shared as PNG file.
 * __*Android QR Code and Barcode Reader App*__
@@ -341,7 +341,7 @@ _My studies at the university_ —
     * [Here is repository of C++ programs](https://github.com/KMORaza/Advanced_Data_Structures) and [this one is Python notebook](https://github.com/KMORaza/Advanced_Data_Structures_using_Python/blob/main/Advanced_Data_Structures.ipynb) 
     
 
-**➤  ACTIVITIES**
+**⮞  ACTIVITIES**
 * Weightlifting
 * Football
 * Cycling
