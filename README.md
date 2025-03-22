@@ -1,4 +1,4 @@
-**⟳ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
+**☛ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
 
 _My studies at the university_ —
 * CSE1006 (Foundations for Data Analytics)
