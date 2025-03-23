@@ -1,68 +1,80 @@
 **⮞ EDUCATION — BACHELOR OF ENGINEERING (MAJOR IN COMPUTER SCIENCE)** 
 
 _My studies at the university_ —
-* CSE1006 (Foundations for Data Analytics)
-* CSE1004 (Problem Solving using Java)
-* CSE1005 (Software Engineering)
-* CSE2005 (Object Oriented Programming)
-* CEE2008 (Operating Systems)
-* CSE4011 (Internet of Things)
-* CSE2001 (Data Structures)
-* CSE2007 (Database Management Systems)
-* CSE2011 (Cyber Security & Digital Forensics)
-* CSE3004 (Design & Analysis of Algorithms)
-* CSE4005 (Data Warehousing & Data Mining)
-* CSE3006 (Data Visualization)
-* CSE3003 (Computer Networks)
-* CSE3002 (Artificial Intelligence)
-* ONL1001 (C Programming) 
-* ENG1001 (English for Essential Communication)
-* ENG1002 (English for Effective Communication)
-* ENG1016 (Climate Fiction & Narratives to Save the World) 
-* ECE1002 (Fundamentals of Electrical & Electronics Engineering)
-* ECE1003 (Digital Logic Design) 
-* ECE1008 (Sensors & Control Systems) 
-* ECE2002 (Computer Organization & Architecture)
-* ECE2004 (Microcontrollers & Interfacing)
-* ECE4004 (Automotive Electronics)
-* FRL1004 (Spanish Language)
-* MGT1001 (Ethics & Values)
-* MGT1002 (Lean Startup Management)
-* HUM2003 (Cost & Management Accounting)
-* PHY1009 (Engineering Mechanics)
-* PHY1008 (Modern Physics)
-* PHY2004 (Optoelectronics)
-* PHY2005 (Nanotechnology)
-* PHY2006 (Solar Photovoltaics) 
-* MEC1004 (Engineering Drawing) 
-* MEC1006 (Introduction to Robotics)
-* MEC2016 (Robot Kinematics & Dynamics)
-* STS1002 (Aptitude)
-* STS1007 (Arithmetic Problem Solving)
-* STS2006 (Skill Enhancement)
-* STS2007 (Enhancing Problem Solving Skills)
-* STS3006 (Competitive Coding I)
-* STS4005 (Competitive Coding II)
-* CHY1001 (Environmental Studies)
-* CHY1004 (Engineering Chemistry)
-* CHY1007 (Energy Materials & Applications)
-* CHY1005 (Industrial Chemistry)
-* CHY1006 (Corrosion Science & Engineering)
-* CHY2002 (Organic Electronics)
-* MAT1001 (Calculus for Engineers)
-* MAT1002 (Applications of Differential & Difference Equations)
-* MAT1011 (Applied Statistics)
-* MAT2005 (Linear Algebra)
-* MAT1003 (Discrete Mathematical Structures)
-* MAT2003 (Optimization Techniques)
+* Majors from computer science
+  * Foundations for Data Analytics
+  * Problem Solving using Java
+  * Software Engineering
+  * Object Oriented Programming
+  * Operating Systems
+  * Internet of Things
+  * Data Structures
+  * Database Management Systems
+  * Cyber Security & Digital Forensics
+  * Design & Analysis of Algorithms
+  * Data Warehousing & Data Mining
+  * Data Visualization
+  * Computer Networks
+  * Artificial Intelligence
+  * C Programming
+* Minor course in English language
+  * English for Essential Communication
+  * English for Effective Communication
+  * Climate Fiction & Narratives to Save the World
+* Minor course in electronics engineering
+  * Fundamentals of Electrical & Electronics Engineering
+  * Digital Logic Design
+  * Sensors & Control Systems
+  * Computer Organization & Architecture
+  * Microcontrollers & Interfacing
+  * Automotive Electronics
+* Minor course in foreign language
+  * Spanish Language
+* Minor courses in management & humanities
+  * Ethics & Values
+  * Lean Startup Management
+  * Cost & Management Accounting
+* Minor courses in physics 
+  * Modern Physics
+  * Optoelectronics
+  * Nanotechnology
+  * Solar Photovoltaics
+* Minor course in mechanical engineering
+  * Engineering Mechanics
+  * Engineering Drawing
+  * Fundamentals of Robotics
+  * Robot Kinematics & Dynamics
+* Minor courses in soft skills
+  * Aptitude
+  * Arithmetic Problem Solving
+  * Skill Enhancement
+  * Enhancing Problem Solving Skills
+  * Competitive Coding I
+  * Competitive Coding II
+* Minor courses in chemistry
+  * Environmental Studies
+  * Engineering Chemistry
+  * Energy Materials & Applications
+  * Industrial Chemistry
+  * Corrosion Science & Engineering
+  * Organic Electronics
+* Minor courses in mathematics
+  * Calculus for Engineers
+  * Applications of Differential & Difference Equations
+  * Applied Statistics
+  * Linear Algebra
+  * Discrete Mathematical Structures
+  * Optimization Techniques
 * Value Added Courses
   * Advanced Data Analytics Tools
   * Data Science & Advanced Analytics
   * Environmental Chemistry & Pollution Control
-* ECS1001 (Engineering Clinics I)
-* ECS1002 (Engineering Clinics II)
-* CAP4001 (Capstone Project)
-* BIC4002 (Senior Design Project)
+* Team projects
+  * Engineering Clinics I
+  * Engineering Clinics II
+  * Capstone Project
+* Major individual project
+  * Senior Design Project
 
 | Course Code | Course Title |
 |-------------|--------------|
@@ -151,7 +163,7 @@ _My studies at the university_ —
 * SQL
 * NI Multisim
 * NI LabVIEW
-* Football⚽
+* Football ⚽
 
 
 
