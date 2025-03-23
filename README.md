@@ -17,11 +17,11 @@ _My studies at the university_ —
   * Computer Networks
   * Artificial Intelligence
   * C Programming
-* Minor course in English language
+* Minor courses in English language
   * English for Essential Communication
   * English for Effective Communication
   * Climate Fiction & Narratives to Save the World
-* Minor course in electronics engineering
+* Minor courses in electronics engineering
   * Fundamentals of Electrical & Electronics Engineering
   * Digital Logic Design
   * Sensors & Control Systems
@@ -39,7 +39,7 @@ _My studies at the university_ —
   * Optoelectronics
   * Nanotechnology
   * Solar Photovoltaics
-* Minor course in mechanical engineering
+* Minor courses in mechanical engineering
   * Engineering Mechanics
   * Engineering Drawing
   * Fundamentals of Robotics
