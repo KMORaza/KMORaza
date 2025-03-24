@@ -360,5 +360,5 @@ _My studies at the university_ —
 
 --- 
 
-_My best preferred snacks are a few brown bread toasts with some peat butter and a sugar-free cup of coffee_
+_My best preferred snacks are a few brown bread toasts with some peanut butter and a sugar-free cup of coffee_
 
