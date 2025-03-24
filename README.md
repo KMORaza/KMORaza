@@ -357,3 +357,7 @@ _My studies at the university_ —
 * Weightlifting
 * Football
 * Cycling
+
+
+_My best preferred snacks are a few brown bread toasts with some peanut butter and a sugar-free cup of either coffee or lemon tea_
+
