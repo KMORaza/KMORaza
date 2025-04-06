@@ -351,24 +351,24 @@ _My studies at the university_ —
 * __*Implementation of major Advanced Data Structures using Python*__
     * I have written 74 advanced data structures. 
     * [Here is repository of C++ programs](https://github.com/KMORaza/Advanced_Data_Structures) and [this one is Python notebook](https://github.com/KMORaza/Advanced_Data_Structures_using_Python/blob/main/Advanced_Data_Structures.ipynb) 
-* ACO-based Optimal Urban Drainage Network
+* __*ACO-based Optimal Urban Drainage Network*__
   * Optimizing urban drainage network design using ant colony optimization. 
   * [First approach](https://github.com/KMORaza/Urban_Drainage_Network_Optimization-ACO-Approach-1) and [second approach](https://github.com/KMORaza/Urban_Drainage_Network_Optimization-ACO-Approach-2)
-* ACO-based Groundwater Monitoring Solution
+* __*ACO-based Groundwater Monitoring Solution*__
   * Solution for groundwater monitoring using ant colony optimization. 
   * Check [repository](https://github.com/KMORaza/Groundwater_Monitoring-ACO)
-* ACO-based Hydraulic Parameter Estimation
+* __*ACO-based Hydraulic Parameter Estimation*__
   * Hydraulic parameter estimation using ant colony optimization. 
   * Check [repository](https://github.com/KMORaza/Hydraulic_Parameter_Estimation-ACO) 
-* ACO-based Sediment Management
+* __*ACO-based Sediment Management*__
   * Optimizing sediment management in reservoirs using ant colony optimization
   * Check [repository](https://github.com/KMORaza/Sediment-Management-ACO)
-* BO-based Optimal Urban Drainage Network
+* __*BO-based Optimal Urban Drainage Network*__
   * Using Bayesian optimization to design an optimal urban drainage network
   * Check [repository](https://github.com/KMORaza/Optimized_Urban_Drainage_Network_Design--Bayesian_Optimization)
-* Electric field calculator - console application
+* __*Electric field calculator - console application*__
   * An electric field calculator written fully in C language
-* Spiral Generation Simulator
+* __*Spiral Generation Simulator*__
   * Desktop app for simulating generation of several mathematical spirals, written fully in C-language, and utilizes GTK4 and Cairo. 
 
 **➢  ACTIVITIES**
