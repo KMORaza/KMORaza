@@ -353,19 +353,19 @@ _My studies at the university_ —
     * [Here is repository of C++ programs](https://github.com/KMORaza/Advanced_Data_Structures) and [this one is Python notebook](https://github.com/KMORaza/Advanced_Data_Structures_using_Python/blob/main/Advanced_Data_Structures.ipynb) 
 * ACO-based Optimal Urban Drainage Network
   * Optimizing urban drainage network design using ant colony optimization. 
-  * ![First approach](https://github.com/KMORaza/Urban_Drainage_Network_Optimization-ACO-Approach-1) and ![second approach](https://github.com/KMORaza/Urban_Drainage_Network_Optimization-ACO-Approach-2)
+  * [First approach](https://github.com/KMORaza/Urban_Drainage_Network_Optimization-ACO-Approach-1) and [second approach](https://github.com/KMORaza/Urban_Drainage_Network_Optimization-ACO-Approach-2)
 * ACO-based Groundwater Monitoring Solution
   * Solution for groundwater monitoring using ant colony optimization. 
-  * Check ![repository](https://github.com/KMORaza/Groundwater_Monitoring-ACO)
+  * Check [repository](https://github.com/KMORaza/Groundwater_Monitoring-ACO)
 * ACO-based Hydraulic Parameter Estimation
   * Hydraulic parameter estimation using ant colony optimization. 
-  * Check ![repository](https://github.com/KMORaza/Hydraulic_Parameter_Estimation-ACO) 
+  * Check [repository](https://github.com/KMORaza/Hydraulic_Parameter_Estimation-ACO) 
 * ACO-based Sediment Management
   * Optimizing sediment management in reservoirs using ant colony optimization
-  * Check ![repository](https://github.com/KMORaza/Sediment-Management-ACO)
+  * Check [repository](https://github.com/KMORaza/Sediment-Management-ACO)
 * BO-based Optimal Urban Drainage Network
   * Using Bayesian optimization to design an optimal urban drainage network
-  * Check ![repository](https://github.com/KMORaza/Optimized_Urban_Drainage_Network_Design--Bayesian_Optimization)
+  * Check [repository](https://github.com/KMORaza/Optimized_Urban_Drainage_Network_Design--Bayesian_Optimization)
 * Electric field calculator - console application
   * An electric field calculator written fully in C language
 * Spiral Generation Simulator
