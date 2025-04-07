@@ -369,7 +369,8 @@ _My studies at the university_ —
 * __*Electric field calculator - console application*__
   * An electric field calculator written fully in C language
 * __*Spiral Generation Simulator*__
-  * Desktop app for simulating generation of several mathematical spirals, written fully in C-language, and utilizes GTK4 and Cairo. 
+  * Desktop app for simulating generation of several mathematical spirals, written fully in C-language, and utilizes GTK4 and Cairo.
+  * Check [repository](https://github.com/KMORaza/Spiral_Generation_Simulator) 
 
 **➢  ACTIVITIES**
 * Weightlifting
