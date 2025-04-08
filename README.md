@@ -143,7 +143,7 @@ _My studies at the university_ —
 
 
 
-**➢  $SKILLS$** 
+**➢  SKILLS** 
 * C Programming
 * R Programming
 * Java Programming
