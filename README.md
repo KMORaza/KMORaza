@@ -140,7 +140,7 @@ _My studies at the university_ —
 | CAP4001     | Capstone Project |
 | BIC4002     | Senior Design Project |
 
-
+---
 
 
 **➢  SKILLS** 
@@ -165,7 +165,7 @@ _My studies at the university_ —
 * NI LabVIEW
 * Football ⚽
 
-
+---
 
 **➢  PROJECTS**
 * __*Android QR Code Generator*__
@@ -371,6 +371,8 @@ _My studies at the university_ —
 * __*Spiral Generation Simulator*__
   * Desktop app for simulating generation of several mathematical spirals, written fully in C-language, and utilizes GTK4 and Cairo.
   * Check [repository](https://github.com/KMORaza/Spiral_Generation_Simulator) 
+
+---
 
 **➢  ACTIVITIES**
 * Weightlifting
