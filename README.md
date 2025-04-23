@@ -405,7 +405,9 @@ _My studies at the university_ —
   * Control Panel
     * Replicates a VFD panel with Run, Stop, Reset, Forward/Reverse buttons.
     * Keypad entry simulates parameter editing (limited to voltage).
-  * Check [repository](https://github.com/KMORaza/Inverter_Drive_Simulator)  
+  * Check [repository](https://github.com/KMORaza/Inverter_Drive_Simulator)  \
+* __*Valence Shell Structures Simulator*__
+  * Desktop app which simulates structures of valence shells of all the 118 elements of periodic table and is written in C# programming language  
 ---
 
 **➢  ACTIVITIES**
