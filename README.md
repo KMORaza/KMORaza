@@ -366,7 +366,7 @@ _My studies at the university_ —
 * __*BO-based Optimal Urban Drainage Network*__
   * Using Bayesian optimization to design an optimal urban drainage network
   * Check [repository](https://github.com/KMORaza/Optimized_Urban_Drainage_Network_Design--Bayesian_Optimization)
-* __*Electric field calculator - console application*__
+* __*Electric field calculator (console application)*__
   * An electric field calculator written fully in C language
 * __*Spiral Generation Simulator*__
   * Desktop app for simulating generation of several mathematical spirals, written fully in C-language, and utilizes GTK4 and Cairo.
@@ -390,7 +390,22 @@ _My studies at the university_ —
   * Fault Handling
     * Overcurrent: Triggered if current > 20 A
     * Undervoltage: Triggered if voltage < 300 V
-    * Overtemperature: Triggered if temp > 80°C 
+    * Overtemperature: Triggered if temp > 80°C
+  * Input Signals
+    * Speed reference slider scales target frequency.
+    * Forward/Reverse buttons toggle motor direction.
+    * Run/Stop/Reset buttons control simulation state and fault clearing.
+  * Motor Behavior
+    * V/f control: Voltage and frequency are proportional (V/f = constant).
+    * Ramps speed based on user-defined ramp times.
+    * Simulates constant torque load (simplified).
+  * Graphical Monitoring
+    * Displays show voltage, current, frequency, torque, and speed.
+    * Placeholder: All plots use the PWM voltage waveform scaled to max values (e.g., 1.1 * V_dc for voltage).
+ * Control Panel
+    * Replicates a VFD panel with Run, Stop, Reset, Forward/Reverse buttons.
+    * Keypad entry simulates parameter editing (limited to voltage).
+ * Check [repository](https://github.com/KMORaza/Inverter_Drive_Simulator)  
 ---
 
 **➢  ACTIVITIES**
