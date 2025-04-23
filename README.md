@@ -402,10 +402,10 @@ _My studies at the university_ —
   * Graphical Monitoring
     * Displays show voltage, current, frequency, torque, and speed.
     * Placeholder: All plots use the PWM voltage waveform scaled to max values (e.g., 1.1 * V_dc for voltage).
- * Control Panel
+  * Control Panel
     * Replicates a VFD panel with Run, Stop, Reset, Forward/Reverse buttons.
     * Keypad entry simulates parameter editing (limited to voltage).
- * Check [repository](https://github.com/KMORaza/Inverter_Drive_Simulator)  
+  * Check [repository](https://github.com/KMORaza/Inverter_Drive_Simulator)  
 ---
 
 **➢  ACTIVITIES**
