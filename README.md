@@ -371,7 +371,26 @@ _My studies at the university_ —
 * __*Spiral Generation Simulator*__
   * Desktop app for simulating generation of several mathematical spirals, written fully in C-language, and utilizes GTK4 and Cairo.
   * Check [repository](https://github.com/KMORaza/Spiral_Generation_Simulator) 
-
+* __*Inverter Drive Simulator*__
+  * This is a desktop app, written to simulate a variable frequency drive (VFD) controlling an induction motor.
+  * It provides a user interface for configuring motor and drive parameters, simulating input signals, monitoring motor behavior, injecting faults, and visualizing real-time plots.
+  * The components of UI are status label, motor parameters, drive settings, input signals, control panel, fault inputs, output labels, plot area.
+  * The simulation runs in a timed loop (50 ms interval) triggered by the "Run" button.
+  * Input Collection
+    * Reads motor parameters, drive settings, speed reference, and fault checkboxes from GUI widgets.
+    * Parameters: Rated voltage (1–10,000 V), current (1–1,000 A), frequency (1–1,000 Hz), RPM (1–10,000), ramp up/down (0–60 s), max/min frequency (0–1,000 Hz, min ≤ max).
+    * Speed reference: Slider value (0–100%) scales to max frequency.
+  * Input Validation
+    * Checks for valid ranges. 
+    * Displays error messages in the error label (e.g., "Invalid Rated Voltage (1–10000 V)") and stops simulation if invalid.
+  * Motor and Inverter Update
+    * Updates motor parameters & drive settings. 
+    * Sets inverter parameters with rated voltage, target frequency (from speed reference), and fixed modulation index (0.8).
+    * Updates motor state with target frequency, direction, and ramp times.
+  * Fault Handling
+    * Overcurrent: Triggered if current > 20 A
+    * Undervoltage: Triggered if voltage < 300 V
+    * Overtemperature: Triggered if temp > 80°C 
 ---
 
 **➢  ACTIVITIES**
