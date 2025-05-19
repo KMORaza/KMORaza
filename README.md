@@ -850,7 +850,7 @@ Check [webpage](https://bo-optimal-damper-placement-2.netlify.app/) about the so
 ### Pattern Generator App
 * Desktop app to generate and visualize digital signal.
 * Check [repository](https://github.com/KMORaza/Pattern_Generator).
-### pectrum Analyzer Software (enhanced)
+### Spectrum Analyzer Software (enhanced)
 This software is an enhanced version of Spectrum Analyzer, a software I wrote previously. In this version, I incorporated more controls and improved UI and layout of the software.
 - `MainClass` starts the software, loads `spectrum_analyzer.fxml`, applies `style.css`, sets stage title to "Spectrum Analyzer", and displays 1200x800 scene
 - `SignalProcessor` generates simulated spectrum data with 16384 bins, default frequency range 20 Hz to 1000 Hz
