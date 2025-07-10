@@ -996,5 +996,7 @@ This software is an enhanced version of Spectrum Analyzer, a software I wrote pr
 
 --- 
 
+_Meine Lieblingssnacks sind Erdnussbutter-Vollkorntoast und eine zuckerfreien Tasse Kaffee_
+
 _My best preferred snacks are a few brown bread toasts with some peanut butter and a sugar-free cup of coffee_
 
