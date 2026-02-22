@@ -1,144 +1,133 @@
 ## Education - Bachelors of Engineering (Majors in Computer Science) 
 
-_My studies at the university_ —
-* Majors from computer science
-  * Foundations for Data Analytics
-  * Problem Solving using Java
-  * Software Engineering
-  * Object Oriented Programming
-  * Operating Systems
-  * Internet of Things
-  * Data Structures
-  * Database Management Systems
-  * Cyber Security & Digital Forensics
-  * Design & Analysis of Algorithms
-  * Data Warehousing & Data Mining
-  * Data Visualization
-  * Computer Networks
-  * Artificial Intelligence
-  * C Programming
-* Minor courses in English language
-  * English for Essential Communication
-  * English for Effective Communication
-  * Climate Fiction & Narratives to Save the World
-* Minor courses in electronics engineering
-  * Fundamentals of Electrical & Electronics Engineering
-  * Digital Logic Design
-  * Sensors & Control Systems
-  * Computer Organization & Architecture
-  * Microcontrollers & Interfacing
-  * Automotive Electronics
-* Minor course in foreign language
-  * Spanish Language
-* Minor courses in management & humanities
-  * Ethics & Values
-  * Lean Startup Management
-  * Cost & Management Accounting
-* Minor courses in physics 
-  * Modern Physics
-  * Optoelectronics
-  * Nanotechnology
-  * Solar Photovoltaics
-* Minor courses in mechanical engineering
-  * Engineering Mechanics
-  * Engineering Drawing
-  * Fundamentals of Robotics
-  * Robot Kinematics & Dynamics
-* Minor courses in soft skills
-  * Aptitude
-  * Arithmetic Problem Solving
-  * Skill Enhancement
-  * Enhancing Problem Solving Skills
-  * Competitive Coding I
-  * Competitive Coding II
-* Minor courses in chemistry
-  * Environmental Studies
-  * Engineering Chemistry
-  * Energy Materials & Applications
-  * Industrial Chemistry
-  * Corrosion Science & Engineering
-  * Organic Electronics
-* Minor courses in mathematics
-  * Calculus for Engineers
-  * Applications of Differential & Difference Equations
-  * Applied Statistics
-  * Linear Algebra
-  * Discrete Mathematical Structures
-  * Optimization Techniques
-* Value Added Courses
-  * Advanced Data Analytics Tools
-  * Data Science & Advanced Analytics
-  * Environmental Chemistry & Pollution Control
-* Team projects
-  * Engineering Clinics I
-  * Engineering Clinics II
-  * Capstone Project
-* Major individual project
-  * Senior Design Project
-
-| Course Code | Course Title |
-|-------------|--------------|
-| CSE1006     | Foundations for Data Analytics |
-| CSE1004     | Problem Solving using Java |
-| CSE1005     | Software Engineering |
-| CSE2005     | Object Oriented Programming |
-| CSE2008     | Operating Systems |
-| CSE4011     | Internet of Things |
-| CSE2001     | Data Structures |
-| CSE2007     | Database Management Systems |
-| CSE2011     | Cyber Security & Digital Forensics |
-| CSE3004     | Design & Analysis of Algorithms |
-| CSE4005     | Data Warehousing & Data Mining |
-| CSE3006     | Data Visualization |
-| CSE3003     | Computer Networks |
-| CSE3002     | Artificial Intelligence |
-| ONL1001     | C Programming |
-| ENG1001     | English for Essential Communication |
-| ENG1002     | English for Effective Communication |
-| ENG1016     | Climate Fiction & Narratives to Save the World |
-| ECE1002     | Fundamentals of Electrical & Electronics Engineering |
-| ECE1003     | Digital Logic Design |
-| ECE1008     | Sensors & Control Systems |
-| ECE2002     | Computer Organization & Architecture |
-| ECE2004     | Microcontrollers & Interfacing |
-| ECE4004     | Automotive Electronics |
-| FRL1004     | Spanish Language |
-| MGT1001     | Ethics & Values |
-| MGT1002     | Lean Startup Management |
-| HUM2003     | Cost & Management Accounting |
-| PHY1009     | Engineering Mechanics |
-| PHY1008     | Modern Physics |
-| PHY2004     | Optoelectronics |
-| PHY2005     | Nanotechnology |
-| PHY2006     | Solar Photovoltaics |
-| MEC1004     | Engineering Drawing |
-| MEC1006     | Introduction to Robotics |
-| MEC2016     | Robot Kinematics & Dynamics |
-| STS1002     | Aptitude |
-| STS1007     | Arithmetic Problem Solving |
-| STS2006     | Skill Enhancement |
-| STS2007     | Enhancing Problem Solving Skills |
-| STS3006     | Competitive Coding I |
-| STS4005     | Competitive Coding II |
-| CHY1001     | Environmental Studies |
-| CHY1004     | Engineering Chemistry |
-| CHY1007     | Energy Materials & Applications |
-| CHY1005     | Industrial Chemistry |
-| CHY1006     | Corrosion Science & Engineering |
-| CHY2002     | Organic Electronics |
-| MAT1001     | Calculus for Engineers |
-| MAT1002     | Applications of Differential & Difference Equations |
-| MAT1011     | Applied Statistics |
-| MAT2005     | Linear Algebra |
-| MAT1003     | Discrete Mathematical Structures |
-| MAT2003     | Optimization Techniques |
-| Value Added Course | Advanced Data Analytics Tools|
-| Value Added Course | Data Science & Advanced Analytics| 
-| Value Added Course | Environmental Chemistry & Pollution Control|
-| ECS1001     | Engineering Clinics I |
-| ECS1002     | Engineering Clinics II |
-| CAP4001     | Capstone Project |
-| BIC4002     | Senior Design Project |
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 0.95em;">
+  <tr style="background:#f4f4f4;">
+    <th>Category</th>
+    <th>Courses</th>
+  </tr>
+  <tr>
+    <td><b>Computer Science Major</b></td>
+    <td>
+      • Foundations for Data Analytics<br>
+      • Problem Solving using Java<br>
+      • Software Engineering<br>
+      • Object Oriented Programming<br>
+      • Operating Systems<br>
+      • Internet of Things<br>
+      • Data Structures<br>
+      • Database Management Systems<br>
+      • Cyber Security & Digital Forensics<br>
+      • Design & Analysis of Algorithms<br>
+      • Data Warehousing & Data Mining<br>
+      • Data Visualization<br>
+      • Computer Networks<br>
+      • Artificial Intelligence<br>
+      • C Programming
+    </td>
+  </tr>
+  <tr>
+    <td>English Language Minor</td>
+    <td>
+      • English for Essential Communication<br>
+      • English for Effective Communication<br>
+      • Climate Fiction & Narratives to Save the World
+    </td>
+  </tr>
+  <tr>
+    <td>Electronics Engineering Minor</td>
+    <td>
+      • Fundamentals of Electrical & Electronics Engineering<br>
+      • Digital Logic Design<br>
+      • Sensors & Control Systems<br>
+      • Computer Organization & Architecture<br>
+      • Microcontrollers & Interfacing<br>
+      • Automotive Electronics
+    </td>
+  </tr>
+  <tr>
+    <td>Foreign Language Minor</td>
+    <td>• Spanish Language</td>
+  </tr>
+  <tr>
+    <td>Management & Humanities Minor</td>
+    <td>
+      • Ethics & Values<br>
+      • Lean Startup Management<br>
+      • Cost & Management Accounting
+    </td>
+  </tr>
+  <tr>
+    <td>Physics Minor</td>
+    <td>
+      • Modern Physics<br>
+      • Optoelectronics<br>
+      • Nanotechnology<br>
+      • Solar Photovoltaics
+    </td>
+  </tr>
+  <tr>
+    <td>Mechanical Engineering Minor</td>
+    <td>
+      • Engineering Mechanics<br>
+      • Engineering Drawing<br>
+      • Fundamentals of Robotics<br>
+      • Robot Kinematics & Dynamics
+    </td>
+  </tr>
+  <tr>
+    <td>Soft Skills Minor</td>
+    <td>
+      • Aptitude<br>
+      • Arithmetic Problem Solving<br>
+      • Skill Enhancement<br>
+      • Enhancing Problem Solving Skills<br>
+      • Competitive Coding I<br>
+      • Competitive Coding II
+    </td>
+  </tr>
+  <tr>
+    <td>Chemistry Minor</td>
+    <td>
+      • Environmental Studies<br>
+      • Engineering Chemistry<br>
+      • Energy Materials & Applications<br>
+      • Industrial Chemistry<br>
+      • Corrosion Science & Engineering<br>
+      • Organic Electronics
+    </td>
+  </tr>
+  <tr>
+    <td>Mathematics Minor</td>
+    <td>
+      • Calculus for Engineers<br>
+      • Applications of Differential & Difference Equations<br>
+      • Applied Statistics<br>
+      • Linear Algebra<br>
+      • Discrete Mathematical Structures<br>
+      • Optimization Techniques
+    </td>
+  </tr>
+  <tr>
+    <td>Value Added Courses</td>
+    <td>
+      • Advanced Data Analytics Tools<br>
+      • Data Science & Advanced Analytics<br>
+      • Environmental Chemistry & Pollution Control
+    </td>
+  </tr>
+  <tr>
+    <td>Team Projects</td>
+    <td>
+      • Engineering Clinics I<br>
+      • Engineering Clinics II<br>
+      • Capstone Project
+    </td>
+  </tr>
+  <tr>
+    <td>Major Individual Project</td>
+    <td>• Senior Design Project</td>
+  </tr>
+</table>
 
 ---
 
