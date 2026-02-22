@@ -156,8 +156,6 @@
 
 ---
 
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9V4.2C3 3.53726 3.53726 3 4.2 3H9" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15 3H19.8C20.4627 3 21 3.53726 21 4.2V9" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 21H4.2C3.53726 21 3 20.4627 3 19.8V15" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 15V19.8C21 20.4627 20.4627 21 19.8 21H15" stroke="yellow" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> </svg>
-
 ## Projects
 ### Android QR Code Generator
 * This is an user-friendly Android app that creates QR code based on texts, URLs or any paragraphs typed by user. QR code can be saved and shared as PNG file.
