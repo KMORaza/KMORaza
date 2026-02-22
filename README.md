@@ -2,8 +2,8 @@
 
 <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 0.95em;">
   <tr style="background:#f4f4f4;">
-    <th>Category</th>
-    <th>Courses</th>
+    <th>—</th>
+    <th>—</th>
   </tr>
   <tr>
     <td><b>Computer Science Major</b></td>
