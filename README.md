@@ -129,8 +129,8 @@
 
 --- 
 
-_Meine Lieblingssnacks sind Erdnussbutter-Vollkorntoast und eine zuckerfreien Tasse Kaffee_
+ᴍᴇɪɴᴇ ʟɪᴇʙʟɪɴɢssɴᴀᴄᴋs ᴀʟʟᴇʀ ᴢᴇɪᴛᴇɴ sɪɴᴅ ᴠᴏʟʟᴋᴏʀɴʙʀᴏᴛ-ᴛᴏᴀsᴛ ᴍɪᴛ ᴢᴀʀᴛʙɪᴛᴛᴇʀsᴄʜᴏᴋᴏʟᴀᴅᴇ-ᴇʀᴅɴᴜssʙᴜᴛᴛᴇʀ ᴜɴᴅ ᴇɪɴᴇ ᴛᴀssᴇ ᴢᴜᴄᴋᴇʀғʀᴇɪᴇʀ ᴋᴀғғᴇᴇ ᴏᴅᴇʀ ᴇɪɴᴇ ɢᴇᴋᴜ̈ʜʟᴛᴇ ᴅɪᴀ̈ᴛ-ᴄᴏᴄᴀ-ᴄᴏʟᴀ.
 
-ᴍᴇɪɴᴇ ʟɪᴇʙʟɪɴɢssɴᴀᴄᴋs
+_Meine Lieblingssnacks aller Zeiten sind Vollkornbrot-Toast mit Zartbitterschokolade-Erdnussbutter und eine Tasse zuckerfreier Kaffee oder eine gekühlte Diät-Coca-Cola._
 
-_My best preferred snacks are a few brown bread toasts with some peanut butter and a sugar-free cup of coffee_
+_My best preferred snacks are brown bread toasts with peanut butter (preferably dark chocolate) and a sugar-free cup of coffee or a chilled Diet Coke._
