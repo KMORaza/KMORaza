@@ -131,6 +131,6 @@
 
 _Meine Lieblingssnacks sind Erdnussbutter-Vollkorntoast und eine zuckerfreien Tasse Kaffee_
 
-𝐡
+ᴍᴇɪɴᴇ ʟɪᴇʙʟɪɴɢssɴᴀᴄᴋs
 
 _My best preferred snacks are a few brown bread toasts with some peanut butter and a sugar-free cup of coffee_
