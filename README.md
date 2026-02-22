@@ -6,7 +6,7 @@
     <th>—</th>
   </tr>
   <tr>
-    <td><b>Computer Science Major</b></td>
+    <td><b>Majors in Computer Science</b></td>
     <td>
       • Foundations for Data Analytics<br>
       • Problem Solving using Java<br>
@@ -26,7 +26,7 @@
     </td>
   </tr>
   <tr>
-    <td>English Language Minor</td>
+    <td>Minor Studies in English Language</td>
     <td>
       • English for Essential Communication<br>
       • English for Effective Communication<br>
@@ -34,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td>Electronics Engineering Minor</td>
+    <td>Minor Studies in Electronics Engineering</td>
     <td>
       • Fundamentals of Electrical & Electronics Engineering<br>
       • Digital Logic Design<br>
@@ -45,11 +45,11 @@
     </td>
   </tr>
   <tr>
-    <td>Foreign Language Minor</td>
+    <td>Foreign Language</td>
     <td>• Spanish Language</td>
   </tr>
   <tr>
-    <td>Management & Humanities Minor</td>
+    <td>Minor Studies in Management & Humanities</td>
     <td>
       • Ethics & Values<br>
       • Lean Startup Management<br>
@@ -57,7 +57,7 @@
     </td>
   </tr>
   <tr>
-    <td>Physics Minor</td>
+    <td>Minor Studies in Physics</td>
     <td>
       • Modern Physics<br>
       • Optoelectronics<br>
@@ -66,7 +66,7 @@
     </td>
   </tr>
   <tr>
-    <td>Mechanical Engineering Minor</td>
+    <td>Minor Studies in Mechanical Engineering</td>
     <td>
       • Engineering Mechanics<br>
       • Engineering Drawing<br>
@@ -75,7 +75,7 @@
     </td>
   </tr>
   <tr>
-    <td>Soft Skills Minor</td>
+    <td>Soft Skills</td>
     <td>
       • Aptitude<br>
       • Arithmetic Problem Solving<br>
@@ -86,7 +86,7 @@
     </td>
   </tr>
   <tr>
-    <td>Chemistry Minor</td>
+    <td>Minor Studies in Chemistry</td>
     <td>
       • Environmental Studies<br>
       • Engineering Chemistry<br>
@@ -97,7 +97,7 @@
     </td>
   </tr>
   <tr>
-    <td>Mathematics Minor</td>
+    <td>Minor Studies in Mathematics</td>
     <td>
       • Calculus for Engineers<br>
       • Applications of Differential & Difference Equations<br>
