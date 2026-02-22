@@ -1,4 +1,4 @@
-## Education: Bachelors of Engineering, Major in Computer Science) 
+## Education: Bachelors of Engineering, Major in Computer Science
 
 |  |  |
 | :---: | :--- |
