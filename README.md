@@ -125,7 +125,7 @@
 ---
 
 ## ACTIVITIES
-• Weightlifting <br> • Football <br> • Cycling
+• Weightlifting &nbsp; &nbsp; • Football &nbsp; &nbsp; • Cycling
 
 --- 
 
