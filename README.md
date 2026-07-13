@@ -129,8 +129,6 @@
 
 --- 
 
-ᴍᴇɪɴᴇ ʟɪᴇʙʟɪɴɢssɴᴀᴄᴋs ᴀʟʟᴇʀ ᴢᴇɪᴛᴇɴ sɪɴᴅ ᴠᴏʟʟᴋᴏʀɴʙʀᴏᴛ-ᴛᴏᴀsᴛ ᴍɪᴛ ᴢᴀʀᴛʙɪᴛᴛᴇʀsᴄʜᴏᴋᴏʟᴀᴅᴇ-ᴇʀᴅɴᴜssʙᴜᴛᴛᴇʀ ᴜɴᴅ ᴇɪɴᴇ ᴛᴀssᴇ ᴢᴜᴄᴋᴇʀғʀᴇɪᴇʀ ᴋᴀғғᴇᴇ ᴏᴅᴇʀ ᴇɪɴᴇ ɢᴇᴋᴜ̈ʜʟᴛᴇ ᴅɪᴀ̈ᴛ-ᴄᴏᴄᴀ-ᴄᴏʟᴀ.
+Mei liabstn sportliche Aktivitätn san Gewichtheben, Krafttraining, Fußball und Radfahren. Mei liabstn Snacks san Vollkornbrot-Toasts mit Erdnussbutter — am liabstn mit dunkler Schoklad — und a zuckerfreis Tasserl Kaffee oda a kühls Diät-Coca-Cola. (Meine Lieblingssnacks aller Zeiten sind Vollkornbrot-Toast mit Zartbitterschokolade-Erdnussbutter und eine Tasse zuckerfreier Kaffee oder eine gekühlte Diät-Coca-Cola. Meine Lieblingssportarten sind Krafttraining, Gewichtheben, Fußball, und Radfahren.) 
 
-_Meine Lieblingssnacks aller Zeiten sind Vollkornbrot-Toast mit Zartbitterschokolade-Erdnussbutter und eine Tasse zuckerfreier Kaffee oder eine gekühlte Diät-Coca-Cola._
-
-_My best preferred snacks are brown bread toasts with peanut butter (preferably dark chocolate) and a sugar-free cup of coffee or a chilled Diet Coke._
+My best preferred snacks are brown bread toasts with peanut butter—preferably dark chocolate—and a sugar-free cup of coffee or a can of chilled Diet Coke. My best preferred sports are weightlifting, football, and cycling.
